@@ -1,0 +1,27 @@
+block_number,experimental_condition,belief_id,critique_id,mc_id,task_type,task_id,response_1,reaction_time_1,response_2,reaction_time_2,response_3,age,gender,education_level (third grade),social_media_hours (daily),verbal_intelligence (self-perceived),participant_identification
+1,DFU,DFU6,DFU6,DFU6,Insight,I12,No Response,90,een plant,84.7498844,6,20,Vrouw,ASO/doorstroomfinaliteit,10+ uren,Boven gemiddeld,ee460dad-3c78-4c77-b4e8-19867f063f60
+1,DFU,DFU8,DFU8,DFU8,Insight,I8,incorrect,73.1896162,Coach>Hem>Ruben>Marit,112.7851521,7,20,Vrouw,ASO/doorstroomfinaliteit,10+ uren,Boven gemiddeld,ee460dad-3c78-4c77-b4e8-19867f063f60
+1,DFU,DFU9,DFU9,DFU9,Insight,I10,correct,36.7892963,een keer de helft van de zandloper van 11 minuten en een anderhalve keer die van 7,64.2905952,3,20,Vrouw,ASO/doorstroomfinaliteit,10+ uren,Boven gemiddeld,ee460dad-3c78-4c77-b4e8-19867f063f60
+1,DFU,DFU11,DFU11,DFU11,RAT,R7,correct,46.8995556,No Response,20.0160207,7,20,Vrouw,ASO/doorstroomfinaliteit,10+ uren,Boven gemiddeld,ee460dad-3c78-4c77-b4e8-19867f063f60
+2,F,F7,F7,F7,Insight,I4,incorrect,41.7288797,No Response,51.1541245,5,20,Vrouw,ASO/doorstroomfinaliteit,10+ uren,Boven gemiddeld,ee460dad-3c78-4c77-b4e8-19867f063f60
+2,F,F5,F5,F5,Insight,I9,correct,36.5954536,"Er bestonden in 544 v. Chr. 
+nog geen munten",77.2433986,1,20,Vrouw,ASO/doorstroomfinaliteit,10+ uren,Boven gemiddeld,ee460dad-3c78-4c77-b4e8-19867f063f60
+2,F,F4,F4,F4,Insight,I11,incorrect,54.8504737,De zee,67.7011212,4,20,Vrouw,ASO/doorstroomfinaliteit,10+ uren,Boven gemiddeld,ee460dad-3c78-4c77-b4e8-19867f063f60
+2,F,F1,F1,F1,RAT,R10,correct,62.3951409,No Response,20.0039119,1,20,Vrouw,ASO/doorstroomfinaliteit,10+ uren,Boven gemiddeld,ee460dad-3c78-4c77-b4e8-19867f063f60
+3,F,F2,F2,F2,RAT,R12,correct,52.8475259,No Response,8.0703063,1,20,Vrouw,ASO/doorstroomfinaliteit,10+ uren,Boven gemiddeld,ee460dad-3c78-4c77-b4e8-19867f063f60
+3,F,F6,F6,F6,Insight,I5,incorrect,36.8548468,De zon,13.5584194,4,20,Vrouw,ASO/doorstroomfinaliteit,10+ uren,Boven gemiddeld,ee460dad-3c78-4c77-b4e8-19867f063f60
+3,F,F3,F3,F3,RAT,R5,incorrect,21.5402804,kool,13.837407,7,20,Vrouw,ASO/doorstroomfinaliteit,10+ uren,Boven gemiddeld,ee460dad-3c78-4c77-b4e8-19867f063f60
+3,F,F12,F12,F12,RAT,R3,incorrect,39.2428397,No Response,7.0532236,4,20,Vrouw,ASO/doorstroomfinaliteit,10+ uren,Boven gemiddeld,ee460dad-3c78-4c77-b4e8-19867f063f60
+4,DFU,DFU10,DFU10,DFU10,RAT,R1,correct,44.9021383,No Response,20.0046952,4,20,Vrouw,ASO/doorstroomfinaliteit,10+ uren,Boven gemiddeld,ee460dad-3c78-4c77-b4e8-19867f063f60
+4,DFU,DFU3,DFU3,DFU3,Insight,I1,correct,28.1648985,met glazenwasser wordt er naar een machine verwezen en niet naar een mens.,53.0330159,4,20,Vrouw,ASO/doorstroomfinaliteit,10+ uren,Boven gemiddeld,ee460dad-3c78-4c77-b4e8-19867f063f60
+4,DFU,DFU12,DFU12,DFU12,RAT,R11,correct,32.8250177,No Response,20.003569,7,20,Vrouw,ASO/doorstroomfinaliteit,10+ uren,Boven gemiddeld,ee460dad-3c78-4c77-b4e8-19867f063f60
+4,DFU,DFU5,DFU5,DFU5,RAT,R8,correct,30.544361,pijp,8.7876876,7,20,Vrouw,ASO/doorstroomfinaliteit,10+ uren,Boven gemiddeld,ee460dad-3c78-4c77-b4e8-19867f063f60
+5,DFU,DFU1,DFU1,DFU1,RAT,R6,correct,27.328855,No Response,8.4358717,4,20,Vrouw,ASO/doorstroomfinaliteit,10+ uren,Boven gemiddeld,ee460dad-3c78-4c77-b4e8-19867f063f60
+5,DFU,DFU4,DFU4,DFU4,Insight,I2,correct,39.2189472,No Response,120.0190707,7,20,Vrouw,ASO/doorstroomfinaliteit,10+ uren,Boven gemiddeld,ee460dad-3c78-4c77-b4e8-19867f063f60
+5,DFU,DFU7,DFU7,DFU7,RAT,R9,correct,31.1781154,brood,13.9386848,1,20,Vrouw,ASO/doorstroomfinaliteit,10+ uren,Boven gemiddeld,ee460dad-3c78-4c77-b4e8-19867f063f60
+5,DFU,DFU2,DFU2,DFU2,Insight,I3,correct,27.2304122,trouw,69.0785371,6,20,Vrouw,ASO/doorstroomfinaliteit,10+ uren,Boven gemiddeld,ee460dad-3c78-4c77-b4e8-19867f063f60
+6,F,F9,F9,F9,RAT,R4,correct,33.8047392,No Response,13.739613,1,20,Vrouw,ASO/doorstroomfinaliteit,10+ uren,Boven gemiddeld,ee460dad-3c78-4c77-b4e8-19867f063f60
+6,F,F8,F8,F8,Insight,I7,incorrect,40.827877,"doordat
+ het meer ondiep genoeg is",49.8199791,4,20,Vrouw,ASO/doorstroomfinaliteit,10+ uren,Boven gemiddeld,ee460dad-3c78-4c77-b4e8-19867f063f60
+6,F,F10,F10,F10,Insight,I6,correct,56.4639695,hij is blind en leest braille,16.3562673,4,20,Vrouw,ASO/doorstroomfinaliteit,10+ uren,Boven gemiddeld,ee460dad-3c78-4c77-b4e8-19867f063f60
+6,F,F11,F11,F11,RAT,R2,correct,28.2985447,Nederland,15.4391563,1,20,Vrouw,ASO/doorstroomfinaliteit,10+ uren,Boven gemiddeld,ee460dad-3c78-4c77-b4e8-19867f063f60

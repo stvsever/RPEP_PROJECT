@@ -1,0 +1,26 @@
+block_number,experimental_condition,belief_id,critique_id,mc_id,task_type,task_id,response_1,reaction_time_1,response_2,reaction_time_2,response_3,age,gender,education_level (third grade),social_media_hours (daily),verbal_intelligence (self-perceived),participant_identification
+1,F,F3,F3,F3,RAT,R2,No Response,90,Nederlqnd,14.9989322,5,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,f667e7b0-f6db-43fc-a8a3-6f8afcb00774
+1,F,F9,F9,F9,RAT,R11,correct,36.0695117,weegschaal,12.3380027,6,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,f667e7b0-f6db-43fc-a8a3-6f8afcb00774
+1,F,F7,F7,F7,Insight,I10,correct,32.3945336,door twee keer de zandloper  van 7-minuten te gebruiken,46.125521,3,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,f667e7b0-f6db-43fc-a8a3-6f8afcb00774
+1,F,F5,F5,F5,RAT,R9,correct,26.4299259,No Response,20.0006836,6,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,f667e7b0-f6db-43fc-a8a3-6f8afcb00774
+2,F,F2,F2,F2,RAT,R5,correct,27.741487,No Response,20.0116963,4,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,f667e7b0-f6db-43fc-a8a3-6f8afcb00774
+2,F,F12,F12,F12,Insight,I8,correct,36.6173626,"de coach> hem > 
+Ruben > Marit",92.0810196,3,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,f667e7b0-f6db-43fc-a8a3-6f8afcb00774
+2,F,F10,F10,F10,RAT,R10,correct,26.347349,leiband,7.9013615,5,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,f667e7b0-f6db-43fc-a8a3-6f8afcb00774
+2,F,F8,F8,F8,Insight,I12,incorrect,22.4767104,vuur,11.851888,4,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,f667e7b0-f6db-43fc-a8a3-6f8afcb00774
+3,F,F4,F4,F4,Insight,I4,correct,25.2476387,m,7.7861593,1,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,f667e7b0-f6db-43fc-a8a3-6f8afcb00774
+3,F,F11,F11,F11,Insight,I3,correct,16.6552427,hart,13.9837124,1,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,f667e7b0-f6db-43fc-a8a3-6f8afcb00774
+3,F,F6,F6,F6,Insight,I11,correct,22.3508503,wolken,23.5225448,3,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,f667e7b0-f6db-43fc-a8a3-6f8afcb00774
+3,F,F1,F1,F1,RAT,R12,correct,23.8013826,No Response,9.5479423,3,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,f667e7b0-f6db-43fc-a8a3-6f8afcb00774
+4,DFU,DFU9,DFU9,DFU9,RAT,R1,correct,25.0412037,No Response,15.3227914,3,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,f667e7b0-f6db-43fc-a8a3-6f8afcb00774
+4,DFU,DFU10,DFU10,DFU10,Insight,I7,correct,30.5354774,meer was bevroeren,18.014536,1,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,f667e7b0-f6db-43fc-a8a3-6f8afcb00774
+4,DFU,DFU12,DFU12,DFU12,Insight,I6,correct,23.3049781,omdat zijn ogen zich aanpassen aan de omgeving,26.5683688,4,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,f667e7b0-f6db-43fc-a8a3-6f8afcb00774
+4,DFU,DFU1,DFU1,DFU1,RAT,R7,correct,14.2594749,No Response,8.4918595,2,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,f667e7b0-f6db-43fc-a8a3-6f8afcb00774
+5,DFU,DFU7,DFU7,DFU7,Insight,I2,incorrect,22.1715489,niets toch?,115.4074962,7,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,f667e7b0-f6db-43fc-a8a3-6f8afcb00774
+5,DFU,DFU6,DFU6,DFU6,Insight,I5,correct,17.1926249,geen idee,93.1551065,6,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,f667e7b0-f6db-43fc-a8a3-6f8afcb00774
+5,DFU,DFU5,DFU5,DFU5,RAT,R4,correct,33.4043548,lente,12.2065812,4,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,f667e7b0-f6db-43fc-a8a3-6f8afcb00774
+5,DFU,DFU11,DFU11,DFU11,RAT,R3,correct,31.8969831,kleuter,17.6196195,4,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,f667e7b0-f6db-43fc-a8a3-6f8afcb00774
+6,DFU,DFU2,DFU2,DFU2,Insight,I9,correct,28.0986235,omdat de geschiedenis van de munt niet klopt,62.1096162,4,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,f667e7b0-f6db-43fc-a8a3-6f8afcb00774
+6,DFU,DFU4,DFU4,DFU4,Insight,I1,correct,28.8924183,kweetnie,110.2965961,7,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,f667e7b0-f6db-43fc-a8a3-6f8afcb00774
+6,DFU,DFU3,DFU3,DFU3,RAT,R8,correct,22.8410911,huis,16.1652039,3,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,f667e7b0-f6db-43fc-a8a3-6f8afcb00774
+6,DFU,DFU8,DFU8,DFU8,RAT,R6,incorrect,21.6194064,tuindeur,12.7352106,4,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,f667e7b0-f6db-43fc-a8a3-6f8afcb00774

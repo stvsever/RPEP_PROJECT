@@ -1,0 +1,25 @@
+block_number,experimental_condition,belief_id,critique_id,mc_id,task_type,task_id,response_1,reaction_time_1,response_2,reaction_time_2,response_3,age,gender,education_level (third grade),social_media_hours (daily),verbal_intelligence (self-perceived),participant_identification
+1,DFU,DFU3,DFU3,DFU3,Insight,I6,correct,36.9901462,hij leest op zijn gsm,23.2732951,2,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,416a9fdd-526d-4200-a65d-35846ebe27a1
+1,DFU,DFU6,DFU6,DFU6,RAT,R12,correct,-6.6542853,No Response,20.0065679,6,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,416a9fdd-526d-4200-a65d-35846ebe27a1
+1,DFU,DFU7,DFU7,DFU7,RAT,R9,correct,23.4384999,No Response,20.0150185,6,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,416a9fdd-526d-4200-a65d-35846ebe27a1
+1,DFU,DFU1,DFU1,DFU1,Insight,I11,correct,25.5861048,"een lift, want gaat kapot zo",111.3563293,7,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,416a9fdd-526d-4200-a65d-35846ebe27a1
+2,F,F12,F12,F12,Insight,I4,correct,29.4418108,de letter m,9.821515,7,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,416a9fdd-526d-4200-a65d-35846ebe27a1
+2,F,F3,F3,F3,RAT,R2,correct,30.0900237,4 letter,15.9989427,7,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,416a9fdd-526d-4200-a65d-35846ebe27a1
+2,F,F7,F7,F7,RAT,R3,incorrect,41.0747951,huisdieren,13.3866808,1,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,416a9fdd-526d-4200-a65d-35846ebe27a1
+2,F,F10,F10,F10,Insight,I7,correct,37.3513091,bevriesd water,18.2057844,1,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,416a9fdd-526d-4200-a65d-35846ebe27a1
+3,DFU,DFU9,DFU9,DFU9,RAT,R11,correct,34.875338,sport,9.1718551,5,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,416a9fdd-526d-4200-a65d-35846ebe27a1
+3,DFU,DFU11,DFU11,DFU11,Insight,I1,correct,27.0828933,de ladder lag op de grond,20.7523505,2,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,416a9fdd-526d-4200-a65d-35846ebe27a1
+3,DFU,DFU8,DFU8,DFU8,RAT,R6,correct,32.5326041,No Response,20.0061104,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,416a9fdd-526d-4200-a65d-35846ebe27a1
+3,DFU,DFU5,DFU5,DFU5,Insight,I5,correct,33.816624,de zon,27.4183852,3,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,416a9fdd-526d-4200-a65d-35846ebe27a1
+4,F,F8,F8,F8,Insight,I3,incorrect,36.3273809,een hart,13.0567581,7,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,416a9fdd-526d-4200-a65d-35846ebe27a1
+4,F,F5,F5,F5,RAT,R5,incorrect,27.1448832,goud,13.3456669,7,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,416a9fdd-526d-4200-a65d-35846ebe27a1
+4,F,F6,F6,F6,RAT,R1,incorrect,39.7380136,No Response,20.0047252,7,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,416a9fdd-526d-4200-a65d-35846ebe27a1
+4,F,F2,F2,F2,RAT,R4,correct,30.22063,water,5.2558215,7,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,416a9fdd-526d-4200-a65d-35846ebe27a1
+5,DFU,DFU12,DFU12,DFU12,RAT,R7,correct,40.0104266,boek,5.4036275,2,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,416a9fdd-526d-4200-a65d-35846ebe27a1
+5,DFU,DFU2,DFU2,DFU2,RAT,R8,correct,27.5902975,No Response,20.0056591,7,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,416a9fdd-526d-4200-a65d-35846ebe27a1
+5,DFU,DFU10,DFU10,DFU10,Insight,I9,correct,28.1546229,in die tijd gebruikten ze nog geen munten,68.9535697,7,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,416a9fdd-526d-4200-a65d-35846ebe27a1
+5,DFU,DFU4,DFU4,DFU4,Insight,I12,correct,39.9256747,vuur,8.7854801,5,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,416a9fdd-526d-4200-a65d-35846ebe27a1
+6,F,F1,F1,F1,Insight,I8,correct,29.9600798,coach>hem>ruben>marit,74.1546062,7,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,416a9fdd-526d-4200-a65d-35846ebe27a1
+6,F,F11,F11,F11,Insight,I2,incorrect,58.7756965,No Response,120.0005273,1,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,416a9fdd-526d-4200-a65d-35846ebe27a1
+6,F,F9,F9,F9,Insight,I10,incorrect,21.0699444,No Response,108.6855977,7,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,416a9fdd-526d-4200-a65d-35846ebe27a1
+6,F,F4,F4,F4,RAT,R10,incorrect,18.5277056,No Response,20.0126384,7,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,416a9fdd-526d-4200-a65d-35846ebe27a1

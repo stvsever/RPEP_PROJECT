@@ -1,0 +1,26 @@
+block_number,experimental_condition,belief_id,critique_id,mc_id,task_type,task_id,response_1,reaction_time_1,response_2,reaction_time_2,response_3,age,gender,education_level (third grade),social_media_hours (daily),verbal_intelligence (self-perceived),participant_identification
+1,DFU,DFU5,DFU5,DFU5,RAT,R6,correct,56.89345329999924,bar,15.637249800027348,1,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,2309db63-c5aa-40a0-b691-193c1351ca02
+1,DFU,DFU12,DFU12,DFU12,RAT,R12,incorrect,-22.202598299947567,vang,20.00621880008839,5,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,2309db63-c5aa-40a0-b691-193c1351ca02
+1,DFU,DFU10,DFU10,DFU10,Insight,I4,incorrect,44.364539300091565,No Response,0.016302899923175573,1,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,2309db63-c5aa-40a0-b691-193c1351ca02
+1,DFU,DFU1,DFU1,DFU1,Insight,I12,correct,27.01069720007945,vuur,34.45584000006784,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,2309db63-c5aa-40a0-b691-193c1351ca02
+2,F,F10,F10,F10,Insight,I7,incorrect,46.81907299999148,wanneer het bevroren is,25.399566299980506,3,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,2309db63-c5aa-40a0-b691-193c1351ca02
+2,F,F8,F8,F8,RAT,R10,incorrect,44.09812310000416,auto,18.585703600081615,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,2309db63-c5aa-40a0-b691-193c1351ca02
+2,F,F5,F5,F5,Insight,I3,correct,30.322953899973072,tak,22.656946000060998,1,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,2309db63-c5aa-40a0-b691-193c1351ca02
+2,F,F11,F11,F11,Insight,I8,correct,34.81650149996858,"Coach
+>Hem>Ruben>Marit",103.43504140002187,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,2309db63-c5aa-40a0-b691-193c1351ca02
+3,DFU,DFU11,DFU11,DFU11,RAT,R7,incorrect,24.802174900076352,huis,16.064308800036088,6,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,2309db63-c5aa-40a0-b691-193c1351ca02
+3,DFU,DFU2,DFU2,DFU2,RAT,R8,correct,20.756005099974573,damp,12.869671599939466,7,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,2309db63-c5aa-40a0-b691-193c1351ca02
+3,DFU,DFU4,DFU4,DFU4,Insight,I1,correct,29.992612299975008,goede landingspositie,63.68608639994636,3,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,2309db63-c5aa-40a0-b691-193c1351ca02
+3,DFU,DFU8,DFU8,DFU8,RAT,R11,correct,53.36468620004598,weegschaal,16.87827320001088,5,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,2309db63-c5aa-40a0-b691-193c1351ca02
+4,F,F9,F9,F9,Insight,I10,correct,48.722053300007246,gebruik die van 11 minuten eerst en dan die van 7 minuten maar voor ongeveer de helft,81.57889300002716,3,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,2309db63-c5aa-40a0-b691-193c1351ca02
+4,F,F7,F7,F7,Insight,I9,incorrect,30.132416300009936,er werd toen nog geen gebruik gemaakt van munten,76.62371240009088,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,2309db63-c5aa-40a0-b691-193c1351ca02
+4,F,F3,F3,F3,RAT,R3,correct,31.01988579996396,wit,17.185579400043935,5,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,2309db63-c5aa-40a0-b691-193c1351ca02
+4,F,F4,F4,F4,Insight,I6,correct,24.304394599981606,adaptatie aan het donker,50.70434609998483,1,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,2309db63-c5aa-40a0-b691-193c1351ca02
+5,DFU,DFU9,DFU9,DFU9,RAT,R9,correct,34.23929109994788,brood,5.429206100059673,7,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,2309db63-c5aa-40a0-b691-193c1351ca02
+5,DFU,DFU3,DFU3,DFU3,Insight,I11,correct,35.537942399969324,de zon,19.003359000082128,1,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,2309db63-c5aa-40a0-b691-193c1351ca02
+5,DFU,DFU6,DFU6,DFU6,Insight,I2,correct,44.08714900002815,vlakke grond,25.463476600009017,5,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,2309db63-c5aa-40a0-b691-193c1351ca02
+5,DFU,DFU7,DFU7,DFU7,Insight,I5,correct,27.697870799922384,ster,28.894244700088166,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,2309db63-c5aa-40a0-b691-193c1351ca02
+6,F,F2,F2,F2,RAT,R1,correct,48.07955850008875,cocktail,8.864620700012892,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,2309db63-c5aa-40a0-b691-193c1351ca02
+6,F,F1,F1,F1,RAT,R2,correct,43.47564799990505,muis,17.336080999928527,5,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,2309db63-c5aa-40a0-b691-193c1351ca02
+6,F,F12,F12,F12,RAT,R4,correct,22.507591500063427,groen,16.685388799989596,5,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,2309db63-c5aa-40a0-b691-193c1351ca02
+6,F,F6,F6,F6,RAT,R5,correct,32.26170919998549,rqmo,11.437382599920966,5,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,2309db63-c5aa-40a0-b691-193c1351ca02

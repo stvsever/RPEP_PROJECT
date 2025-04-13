@@ -1,0 +1,25 @@
+block_number,experimental_condition,belief_id,critique_id,mc_id,task_type,task_id,response_1,reaction_time_1,response_2,reaction_time_2,response_3,age,gender,education_level (third grade),social_media_hours (daily),verbal_intelligence (self-perceived),participant_identification
+1,DFU,DFU12,DFU12,DFU12,Insight,I8,incorrect,86.1235457,Hem>hij>ruben>Marit>coach,107.180487,6,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,57dc748d-dd0c-43c7-90a2-eb7045c99cff
+1,DFU,DFU8,DFU8,DFU8,RAT,R10,incorrect,45.3686996,kar\,20.0052554,7,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,57dc748d-dd0c-43c7-90a2-eb7045c99cff
+1,DFU,DFU2,DFU2,DFU2,RAT,R11,correct,25.4425791,security,13.7958576,3,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,57dc748d-dd0c-43c7-90a2-eb7045c99cff
+1,DFU,DFU5,DFU5,DFU5,RAT,R9,correct,30.7101473,handen,13.0887556,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,57dc748d-dd0c-43c7-90a2-eb7045c99cff
+2,DFU,DFU1,DFU1,DFU1,RAT,R8,correct,22.5027276,vuur,11.1683423,1,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,57dc748d-dd0c-43c7-90a2-eb7045c99cff
+2,DFU,DFU3,DFU3,DFU3,RAT,R4,correct,24.8455482,buiten,14.2351379,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,57dc748d-dd0c-43c7-90a2-eb7045c99cff
+2,DFU,DFU6,DFU6,DFU6,RAT,R2,correct,27.5900669,nederland,8.5026946,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,57dc748d-dd0c-43c7-90a2-eb7045c99cff
+2,DFU,DFU7,DFU7,DFU7,Insight,I3,correct,21.3306467,Een hart.,23.1707768,1,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,57dc748d-dd0c-43c7-90a2-eb7045c99cff
+3,F,F7,F7,F7,RAT,R7,correct,56.4935758,huis,9.2693377,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,57dc748d-dd0c-43c7-90a2-eb7045c99cff
+3,F,F1,F1,F1,Insight,I10,correct,52.9835452,Eerst volledig 7 laten uitlopen en dan de helft van 11 doen,78.330743,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,57dc748d-dd0c-43c7-90a2-eb7045c99cff
+3,F,F6,F6,F6,Insight,I9,correct,23.3713517,Doordat er in die tijd nog geen gebruik was van munten,60.9085189,7,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,57dc748d-dd0c-43c7-90a2-eb7045c99cff
+3,F,F4,F4,F4,Insight,I12,correct,21.71534,een boom,59.3432561,7,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,57dc748d-dd0c-43c7-90a2-eb7045c99cff
+4,F,F11,F11,F11,RAT,R12,correct,34.5684181,dak,17.2845176,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,57dc748d-dd0c-43c7-90a2-eb7045c99cff
+4,F,F12,F12,F12,RAT,R5,correct,22.8274476,grot,14.0480387,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,57dc748d-dd0c-43c7-90a2-eb7045c99cff
+4,F,F10,F10,F10,RAT,R1,correct,21.4386184,cafe,10.0712245,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,57dc748d-dd0c-43c7-90a2-eb7045c99cff
+4,F,F3,F3,F3,RAT,R6,correct,28.3605138,toog,18.4842768,7,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,57dc748d-dd0c-43c7-90a2-eb7045c99cff
+5,F,F9,F9,F9,Insight,I4,correct,21.0433518,geen idee,92.5015599,7,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,57dc748d-dd0c-43c7-90a2-eb7045c99cff
+5,F,F5,F5,F5,RAT,R3,correct,20.2149698,sneeuw,15.0224483,1,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,57dc748d-dd0c-43c7-90a2-eb7045c99cff
+5,F,F8,F8,F8,Insight,I7,correct,32.4306531,Door te doen alsof je aan het lopen bent door het water.,75.2872368,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,57dc748d-dd0c-43c7-90a2-eb7045c99cff
+5,F,F2,F2,F2,Insight,I11,correct,23.238213,punten op een test,28.8865619,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,57dc748d-dd0c-43c7-90a2-eb7045c99cff
+6,DFU,DFU11,DFU11,DFU11,Insight,I1,correct,24.2811847,"Hij hangt nog vast met bescherming, zoals een harnas en touw. Net zoals bij klimmen.",86.2216082,5,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,57dc748d-dd0c-43c7-90a2-eb7045c99cff
+6,DFU,DFU9,DFU9,DFU9,Insight,I2,correct,21.6634745,Ze hebben allemaal een open vlakte dan.,59.2457864,5,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,57dc748d-dd0c-43c7-90a2-eb7045c99cff
+6,DFU,DFU4,DFU4,DFU4,Insight,I5,correct,71.4062886,de  zon,56.0370716,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,57dc748d-dd0c-43c7-90a2-eb7045c99cff
+6,DFU,DFU10,DFU10,DFU10,Insight,I6,correct,28.2770133,hij is blind,11.0193783,2,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,57dc748d-dd0c-43c7-90a2-eb7045c99cff

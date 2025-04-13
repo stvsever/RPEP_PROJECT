@@ -1,0 +1,25 @@
+block_number,experimental_condition,belief_id,critique_id,mc_id,task_type,task_id,response_1,reaction_time_1,response_2,reaction_time_2,response_3,age,gender,education_level (third grade),social_media_hours (daily),verbal_intelligence (self-perceived),participant_identification
+1,DFU,DFU9,DFU9,DFU9,RAT,R10,correct,34.2217502,No Response,20.0051826,7,20,Vrouw,ASO/doorstroomfinaliteit,0-1 uur,Hoog,212db346-10e2-4a56-a4fa-385ed7b6840a
+1,DFU,DFU5,DFU5,DFU5,Insight,I3,correct,39.2523563,bot,97.1665606,7,20,Vrouw,ASO/doorstroomfinaliteit,0-1 uur,Hoog,212db346-10e2-4a56-a4fa-385ed7b6840a
+1,DFU,DFU12,DFU12,DFU12,Insight,I11,correct,46.7506924,No Response,120.3348635,7,20,Vrouw,ASO/doorstroomfinaliteit,0-1 uur,Hoog,212db346-10e2-4a56-a4fa-385ed7b6840a
+1,DFU,DFU2,DFU2,DFU2,Insight,I2,correct,42.5915043,No Response,120.2542688,7,20,Vrouw,ASO/doorstroomfinaliteit,0-1 uur,Hoog,212db346-10e2-4a56-a4fa-385ed7b6840a
+2,DFU,DFU8,DFU8,DFU8,RAT,R8,correct,41.2392151,bot,20.000742,6,20,Vrouw,ASO/doorstroomfinaliteit,0-1 uur,Hoog,212db346-10e2-4a56-a4fa-385ed7b6840a
+2,DFU,DFU7,DFU7,DFU7,Insight,I6,correct,26.0886009,blidne man,17.497883,1,20,Vrouw,ASO/doorstroomfinaliteit,0-1 uur,Hoog,212db346-10e2-4a56-a4fa-385ed7b6840a
+2,DFU,DFU10,DFU10,DFU10,Insight,I1,correct,42.9066769,van odneraan gevallen,22.2858049,1,20,Vrouw,ASO/doorstroomfinaliteit,0-1 uur,Hoog,212db346-10e2-4a56-a4fa-385ed7b6840a
+2,DFU,DFU4,DFU4,DFU4,RAT,R12,correct,32.6339662,hout,17.7201939,2,20,Vrouw,ASO/doorstroomfinaliteit,0-1 uur,Hoog,212db346-10e2-4a56-a4fa-385ed7b6840a
+3,F,F3,F3,F3,RAT,R7,correct,84.5505612,No Response,20.016037,2,20,Vrouw,ASO/doorstroomfinaliteit,0-1 uur,Hoog,212db346-10e2-4a56-a4fa-385ed7b6840a
+3,F,F5,F5,F5,Insight,I12,correct,80.0266112,No Response,30.8888605,4,20,Vrouw,ASO/doorstroomfinaliteit,0-1 uur,Hoog,212db346-10e2-4a56-a4fa-385ed7b6840a
+3,F,F4,F4,F4,RAT,R6,correct,70.7908892,deur,13.5490684,3,20,Vrouw,ASO/doorstroomfinaliteit,0-1 uur,Hoog,212db346-10e2-4a56-a4fa-385ed7b6840a
+3,F,F10,F10,F10,Insight,I5,incorrect,79.3811136,No Response,81.1349013,2,20,Vrouw,ASO/doorstroomfinaliteit,0-1 uur,Hoog,212db346-10e2-4a56-a4fa-385ed7b6840a
+4,F,F11,F11,F11,Insight,I7,correct,69.3808206,bevroren,29.8231805,6,20,Vrouw,ASO/doorstroomfinaliteit,0-1 uur,Hoog,212db346-10e2-4a56-a4fa-385ed7b6840a
+4,F,F12,F12,F12,RAT,R2,incorrect,56.4515856,No Response,20.0140162,4,20,Vrouw,ASO/doorstroomfinaliteit,0-1 uur,Hoog,212db346-10e2-4a56-a4fa-385ed7b6840a
+4,F,F7,F7,F7,RAT,R3,correct,47.975715,sneeuw,11.0025956,2,20,Vrouw,ASO/doorstroomfinaliteit,0-1 uur,Hoog,212db346-10e2-4a56-a4fa-385ed7b6840a
+4,F,F9,F9,F9,RAT,R11,incorrect,42.9761275,No Response,20.0111407,2,20,Vrouw,ASO/doorstroomfinaliteit,0-1 uur,Hoog,212db346-10e2-4a56-a4fa-385ed7b6840a
+5,F,F6,F6,F6,Insight,I8,correct,77.475266,Ruben>Hem  Marit>coach,120.0005918,1,20,Vrouw,ASO/doorstroomfinaliteit,0-1 uur,Hoog,212db346-10e2-4a56-a4fa-385ed7b6840a
+5,F,F8,F8,F8,Insight,I10,incorrect,17.3364542,No Response,120.0110884,1,20,Vrouw,ASO/doorstroomfinaliteit,0-1 uur,Hoog,212db346-10e2-4a56-a4fa-385ed7b6840a
+5,F,F1,F1,F1,RAT,R4,correct,42.0250457,No Response,8.0564027,4,20,Vrouw,ASO/doorstroomfinaliteit,0-1 uur,Hoog,212db346-10e2-4a56-a4fa-385ed7b6840a
+5,F,F2,F2,F2,Insight,I4,correct,26.5061293,letter m,0.0173764,1,20,Vrouw,ASO/doorstroomfinaliteit,0-1 uur,Hoog,212db346-10e2-4a56-a4fa-385ed7b6840a
+6,DFU,DFU11,DFU11,DFU11,RAT,R1,correct,28.3663798,No Response,20.1886061,6,20,Vrouw,ASO/doorstroomfinaliteit,0-1 uur,Hoog,212db346-10e2-4a56-a4fa-385ed7b6840a
+6,DFU,DFU3,DFU3,DFU3,Insight,I9,correct,22.3443547,Omdat keizers toen niet bestonden,110.9723039,7,20,Vrouw,ASO/doorstroomfinaliteit,0-1 uur,Hoog,212db346-10e2-4a56-a4fa-385ed7b6840a
+6,DFU,DFU1,DFU1,DFU1,RAT,R9,correct,23.8726086,No Response,20.0047804,1,20,Vrouw,ASO/doorstroomfinaliteit,0-1 uur,Hoog,212db346-10e2-4a56-a4fa-385ed7b6840a
+6,DFU,DFU6,DFU6,DFU6,RAT,R5,correct,27.4081178,goud,4.2200171,1,20,Vrouw,ASO/doorstroomfinaliteit,0-1 uur,Hoog,212db346-10e2-4a56-a4fa-385ed7b6840a

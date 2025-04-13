@@ -1,0 +1,26 @@
+block_number,experimental_condition,belief_id,critique_id,mc_id,task_type,task_id,response_1,reaction_time_1,response_2,reaction_time_2,response_3,age,gender,education_level (third grade),social_media_hours (daily),verbal_intelligence (self-perceived),participant_identification
+1,F,F3,F3,F3,Insight,I8,correct,55.55099199997494,"coach>hem>ruben
+>marit",97.48098500003107,1,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,1e31c737-d472-4460-a0c0-1f46911f31af
+1,F,F11,F11,F11,RAT,R5,correct,41.344810399983544,/,20.012186600011773,1,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,1e31c737-d472-4460-a0c0-1f46911f31af
+1,F,F9,F9,F9,Insight,I4,correct,32.960024199972395,m,24.187055899994448,6,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,1e31c737-d472-4460-a0c0-1f46911f31af
+1,F,F12,F12,F12,RAT,R3,correct,39.47280720004346,/,20.002118000003975,1,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,1e31c737-d472-4460-a0c0-1f46911f31af
+2,F,F7,F7,F7,RAT,R10,correct,36.73864930000855,auto,20.00103520002449,4,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,1e31c737-d472-4460-a0c0-1f46911f31af
+2,F,F1,F1,F1,RAT,R8,correct,56.47397329995874,No Response,0.01420119998510927,5,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,1e31c737-d472-4460-a0c0-1f46911f31af
+2,F,F10,F10,F10,Insight,I1,correct,34.68042260000948,er  staat niet of de ladder 12 hoog staat tegen een muur\,100.08102729998063,4,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,1e31c737-d472-4460-a0c0-1f46911f31af
+2,F,F4,F4,F4,Insight,I7,correct,28.689018499979284,loop langs de basis en dan langs de hoogte,86.69997730001342,4,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,1e31c737-d472-4460-a0c0-1f46911f31af
+3,DFU,DFU6,DFU6,DFU6,RAT,R7,correct,41.053314200020395,hout,9.942333499959204,6,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,1e31c737-d472-4460-a0c0-1f46911f31af
+3,DFU,DFU1,DFU1,DFU1,Insight,I10,incorrect,29.780215199978556,No Response,120.01113930001156,1,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,1e31c737-d472-4460-a0c0-1f46911f31af
+3,DFU,DFU8,DFU8,DFU8,RAT,R9,incorrect,59.1731662999955,huid,20.00214599998435,1,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,1e31c737-d472-4460-a0c0-1f46911f31af
+3,DFU,DFU4,DFU4,DFU4,RAT,R6,correct,45.90094130003126,/,17.245483400009107,3,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,1e31c737-d472-4460-a0c0-1f46911f31af
+4,DFU,DFU12,DFU12,DFU12,Insight,I2,correct,47.56012280000141,virtuele wereld,76.74919880001107,5,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,1e31c737-d472-4460-a0c0-1f46911f31af
+4,DFU,DFU9,DFU9,DFU9,Insight,I6,correct,35.71534719999181,hij heeft een bril aan met nachtvisie,33.69079200003762,1,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,1e31c737-d472-4460-a0c0-1f46911f31af
+4,DFU,DFU11,DFU11,DFU11,RAT,R4,correct,62.4752385999891,water,17.11989040003391,1,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,1e31c737-d472-4460-a0c0-1f46911f31af
+4,DFU,DFU3,DFU3,DFU3,Insight,I11,correct,37.93649260001257,een persoon die drugs neemt,74.12878339999588,7,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,1e31c737-d472-4460-a0c0-1f46911f31af
+5,F,F6,F6,F6,Insight,I3,correct,31.239289699995425,een hart,10.220681599981617,5,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,1e31c737-d472-4460-a0c0-1f46911f31af
+5,F,F5,F5,F5,RAT,R2,correct,35.08581579994643,nederland,16.522708099975716,5,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,1e31c737-d472-4460-a0c0-1f46911f31af
+5,F,F8,F8,F8,Insight,I12,correct,25.33660239999881,vuur,15.667718999960925,6,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,1e31c737-d472-4460-a0c0-1f46911f31af
+5,F,F2,F2,F2,RAT,R11,correct,31.34133829997154,fitness,18.147291799949016,4,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,1e31c737-d472-4460-a0c0-1f46911f31af
+6,DFU,DFU2,DFU2,DFU2,Insight,I5,correct,31.99572419998003,zonnenstralen,23.389944099995773,5,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,1e31c737-d472-4460-a0c0-1f46911f31af
+6,DFU,DFU5,DFU5,DFU5,RAT,R1,correct,32.338698900013696,avondje  uit,16.843770599982236,4,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,1e31c737-d472-4460-a0c0-1f46911f31af
+6,DFU,DFU7,DFU7,DFU7,Insight,I9,correct,46.331907299987506,De keizer was al overleden in dat jaartal,104.95760710001923,2,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,1e31c737-d472-4460-a0c0-1f46911f31af
+6,DFU,DFU10,DFU10,DFU10,RAT,R12,correct,30.382939199975226,haart,20.00103990000207,1,19,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,1e31c737-d472-4460-a0c0-1f46911f31af

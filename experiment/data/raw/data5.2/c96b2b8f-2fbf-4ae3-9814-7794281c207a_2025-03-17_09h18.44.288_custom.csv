@@ -1,0 +1,25 @@
+block_number,experimental_condition,belief_id,critique_id,mc_id,task_type,task_id,response_1,reaction_time_1,response_2,reaction_time_2,response_3,age,gender,education_level (third grade),social_media_hours (daily),verbal_intelligence (self-perceived),participant_identification
+1,F,F10,F10,F10,Insight,I11,correct,55.0011231,cijfers,19.5836035,4,18,Vrouw,TSO/dubbele finaliteit,5-6 uren,Gemiddeld,c96b2b8f-2fbf-4ae3-9814-7794281c207a
+1,F,F6,F6,F6,RAT,R12,correct,39.8639592,kachel,16.0164064,1,18,Vrouw,TSO/dubbele finaliteit,5-6 uren,Gemiddeld,c96b2b8f-2fbf-4ae3-9814-7794281c207a
+1,F,F8,F8,F8,Insight,I2,incorrect,58.4066792,land,10.8184881,5,18,Vrouw,TSO/dubbele finaliteit,5-6 uren,Gemiddeld,c96b2b8f-2fbf-4ae3-9814-7794281c207a
+1,F,F12,F12,F12,Insight,I9,correct,53.9894233,Er was nog geen voor christus  vroeger of het stond er nooit op,57.4617685,6,18,Vrouw,TSO/dubbele finaliteit,5-6 uren,Gemiddeld,c96b2b8f-2fbf-4ae3-9814-7794281c207a
+2,F,F2,F2,F2,RAT,R10,correct,56.9842438,leiband,16.2543938,4,18,Vrouw,TSO/dubbele finaliteit,5-6 uren,Gemiddeld,c96b2b8f-2fbf-4ae3-9814-7794281c207a
+2,F,F3,F3,F3,Insight,I12,correct,66.9874141,cactus,11.1301756,4,18,Vrouw,TSO/dubbele finaliteit,5-6 uren,Gemiddeld,c96b2b8f-2fbf-4ae3-9814-7794281c207a
+2,F,F11,F11,F11,Insight,I6,incorrect,64.8488875,hij ziet de woorden voor hem,28.0741862,4,18,Vrouw,TSO/dubbele finaliteit,5-6 uren,Gemiddeld,c96b2b8f-2fbf-4ae3-9814-7794281c207a
+2,F,F4,F4,F4,RAT,R5,correct,61.8759674,mijn gele vis,16.1355296,4,18,Vrouw,TSO/dubbele finaliteit,5-6 uren,Gemiddeld,c96b2b8f-2fbf-4ae3-9814-7794281c207a
+3,DFU,DFU7,DFU7,DFU7,Insight,I4,correct,44.3190104,2 cijfers,33.1903983,4,18,Vrouw,TSO/dubbele finaliteit,5-6 uren,Gemiddeld,c96b2b8f-2fbf-4ae3-9814-7794281c207a
+3,DFU,DFU5,DFU5,DFU5,Insight,I1,correct,64.8309063,geluk of hij viel op iemand anders,80.7164821,6,18,Vrouw,TSO/dubbele finaliteit,5-6 uren,Gemiddeld,c96b2b8f-2fbf-4ae3-9814-7794281c207a
+3,DFU,DFU3,DFU3,DFU3,Insight,I3,correct,50.9826826,hart,12.4008537,3,18,Vrouw,TSO/dubbele finaliteit,5-6 uren,Gemiddeld,c96b2b8f-2fbf-4ae3-9814-7794281c207a
+3,DFU,DFU1,DFU1,DFU1,Insight,I8,correct,56.4477909,Coach  > Hij > Hem  > Mqrit,117.4184284,6,18,Vrouw,TSO/dubbele finaliteit,5-6 uren,Gemiddeld,c96b2b8f-2fbf-4ae3-9814-7794281c207a
+4,F,F5,F5,F5,RAT,R4,correct,64.0671992,fruit,14.2026475,4,18,Vrouw,TSO/dubbele finaliteit,5-6 uren,Gemiddeld,c96b2b8f-2fbf-4ae3-9814-7794281c207a
+4,F,F1,F1,F1,Insight,I10,correct,51.3394356,volledig de zandloper van 11 minuten laten doorlopen en als je ongeveer net over de helft zit van de zeven minuten zandloper dan kom je ongeveer aan die 15 minuten,80.3711112,4,18,Vrouw,TSO/dubbele finaliteit,5-6 uren,Gemiddeld,c96b2b8f-2fbf-4ae3-9814-7794281c207a
+4,F,F9,F9,F9,RAT,R7,correct,34.9285748,houtworm,11.1162502,6,18,Vrouw,TSO/dubbele finaliteit,5-6 uren,Gemiddeld,c96b2b8f-2fbf-4ae3-9814-7794281c207a
+4,F,F7,F7,F7,RAT,R6,incorrect,42.8899413,stoel,9.2229242,2,18,Vrouw,TSO/dubbele finaliteit,5-6 uren,Gemiddeld,c96b2b8f-2fbf-4ae3-9814-7794281c207a
+5,DFU,DFU6,DFU6,DFU6,RAT,R9,correct,-0.4980904,boterham,11.8575955,3,18,Vrouw,TSO/dubbele finaliteit,5-6 uren,Gemiddeld,c96b2b8f-2fbf-4ae3-9814-7794281c207a
+5,DFU,DFU11,DFU11,DFU11,RAT,R2,incorrect,55.726149,kaasboer,14.2864082,4,18,Vrouw,TSO/dubbele finaliteit,5-6 uren,Gemiddeld,c96b2b8f-2fbf-4ae3-9814-7794281c207a
+5,DFU,DFU2,DFU2,DFU2,Insight,I5,correct,51.8273398,postzegels,11.5743993,3,18,Vrouw,TSO/dubbele finaliteit,5-6 uren,Gemiddeld,c96b2b8f-2fbf-4ae3-9814-7794281c207a
+5,DFU,DFU4,DFU4,DFU4,RAT,R11,correct,43.3064632,weegschaal,9.1698748,2,18,Vrouw,TSO/dubbele finaliteit,5-6 uren,Gemiddeld,c96b2b8f-2fbf-4ae3-9814-7794281c207a
+6,DFU,DFU8,DFU8,DFU8,Insight,I7,correct,24.8103866,niet ze vallen behalve als het laagstaand water is dat juist het oppervlak bedekt,41.7082489,4,18,Vrouw,TSO/dubbele finaliteit,5-6 uren,Gemiddeld,c96b2b8f-2fbf-4ae3-9814-7794281c207a
+6,DFU,DFU12,DFU12,DFU12,RAT,R3,correct,33.1567536,dikke ketting,20.0016882,4,18,Vrouw,TSO/dubbele finaliteit,5-6 uren,Gemiddeld,c96b2b8f-2fbf-4ae3-9814-7794281c207a
+6,DFU,DFU9,DFU9,DFU9,RAT,R1,correct,38.9112832,No Response,0.0181723,4,18,Vrouw,TSO/dubbele finaliteit,5-6 uren,Gemiddeld,c96b2b8f-2fbf-4ae3-9814-7794281c207a
+6,DFU,DFU10,DFU10,DFU10,RAT,R8,correct,58.0180866,huis,5.8525382,4,18,Vrouw,TSO/dubbele finaliteit,5-6 uren,Gemiddeld,c96b2b8f-2fbf-4ae3-9814-7794281c207a

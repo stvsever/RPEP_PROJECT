@@ -1,0 +1,28 @@
+block_number,experimental_condition,belief_id,critique_id,mc_id,task_type,task_id,response_1,reaction_time_1,response_2,reaction_time_2,response_3,age,gender,education_level (third grade),social_media_hours (daily),verbal_intelligence (self-perceived),participant_identification
+1,DFU,DFU1,DFU1,DFU1,RAT,R12,correct,39.2343456,konijn,20.0099244,6,18,Vrouw,ASO/doorstroomfinaliteit,4-5 uren,Gemiddeld,c3f96697-0816-4f4e-831f-ba806a6e09d6
+1,DFU,DFU7,DFU7,DFU7,Insight,I12,incorrect,-11.2215827,No Response,20.0230875,7,18,Vrouw,ASO/doorstroomfinaliteit,4-5 uren,Gemiddeld,c3f96697-0816-4f4e-831f-ba806a6e09d6
+1,DFU,DFU8,DFU8,DFU8,RAT,R6,correct,39.0075324,deur,14.6666245,4,18,Vrouw,ASO/doorstroomfinaliteit,4-5 uren,Gemiddeld,c3f96697-0816-4f4e-831f-ba806a6e09d6
+1,DFU,DFU11,DFU11,DFU11,RAT,R8,incorrect,56.3823478,vuur,10.5388609,5,18,Vrouw,ASO/doorstroomfinaliteit,4-5 uren,Gemiddeld,c3f96697-0816-4f4e-831f-ba806a6e09d6
+2,DFU,DFU12,DFU12,DFU12,Insight,I4,incorrect,51.9066626,m,20.6396264,2,18,Vrouw,ASO/doorstroomfinaliteit,4-5 uren,Gemiddeld,c3f96697-0816-4f4e-831f-ba806a6e09d6
+2,DFU,DFU5,DFU5,DFU5,RAT,R3,correct,47.0927904,kat,17.2019541,3,18,Vrouw,ASO/doorstroomfinaliteit,4-5 uren,Gemiddeld,c3f96697-0816-4f4e-831f-ba806a6e09d6
+2,DFU,DFU10,DFU10,DFU10,Insight,I11,incorrect,57.6011867,je punten,18.2874866,4,18,Vrouw,ASO/doorstroomfinaliteit,4-5 uren,Gemiddeld,c3f96697-0816-4f4e-831f-ba806a6e09d6
+2,DFU,DFU4,DFU4,DFU4,Insight,I1,incorrect,58.3789929,hij valt  op een net,21.3509858,6,18,Vrouw,ASO/doorstroomfinaliteit,4-5 uren,Gemiddeld,c3f96697-0816-4f4e-831f-ba806a6e09d6
+3,DFU,DFU9,DFU9,DFU9,Insight,I5,correct,37.1996725,google maps,11.4548906,1,18,Vrouw,ASO/doorstroomfinaliteit,4-5 uren,Gemiddeld,c3f96697-0816-4f4e-831f-ba806a6e09d6
+3,DFU,DFU2,DFU2,DFU2,RAT,R9,incorrect,34.1863617,geen idee,18.0007984,3,18,Vrouw,ASO/doorstroomfinaliteit,4-5 uren,Gemiddeld,c3f96697-0816-4f4e-831f-ba806a6e09d6
+3,DFU,DFU6,DFU6,DFU6,Insight,I3,incorrect,71.9249535,hart,17.2912099,5,18,Vrouw,ASO/doorstroomfinaliteit,4-5 uren,Gemiddeld,c3f96697-0816-4f4e-831f-ba806a6e09d6
+3,DFU,DFU3,DFU3,DFU3,RAT,R11,correct,53.5963903,ziekenhuis,14.1030734,2,18,Vrouw,ASO/doorstroomfinaliteit,4-5 uren,Gemiddeld,c3f96697-0816-4f4e-831f-ba806a6e09d6
+4,F,F5,F5,F5,Insight,I8,correct,51.9379247,"Hem>Hij>
+ruben>Marit",91.3802708,5,18,Vrouw,ASO/doorstroomfinaliteit,4-5 uren,Gemiddeld,c3f96697-0816-4f4e-831f-ba806a6e09d6
+4,F,F8,F8,F8,RAT,R5,incorrect,34.5092638,goudvis,11.0521091,5,18,Vrouw,ASO/doorstroomfinaliteit,4-5 uren,Gemiddeld,c3f96697-0816-4f4e-831f-ba806a6e09d6
+4,F,F11,F11,F11,Insight,I9,incorrect,47.7420955,"toen  hadden ze geen
+ munt",48.5307904,1,18,Vrouw,ASO/doorstroomfinaliteit,4-5 uren,Gemiddeld,c3f96697-0816-4f4e-831f-ba806a6e09d6
+4,F,F4,F4,F4,RAT,R7,correct,24.5031846,buiten,14.3058407,6,18,Vrouw,ASO/doorstroomfinaliteit,4-5 uren,Gemiddeld,c3f96697-0816-4f4e-831f-ba806a6e09d6
+5,F,F7,F7,F7,RAT,R10,incorrect,27.1983004,emotioneel,14.1390739,7,18,Vrouw,ASO/doorstroomfinaliteit,4-5 uren,Gemiddeld,c3f96697-0816-4f4e-831f-ba806a6e09d6
+5,F,F10,F10,F10,RAT,R2,correct,32.4620262,frankrijk,9.488998,4,18,Vrouw,ASO/doorstroomfinaliteit,4-5 uren,Gemiddeld,c3f96697-0816-4f4e-831f-ba806a6e09d6
+5,F,F2,F2,F2,Insight,I6,correct,17.3912285,omdat hij een verhaal in zijn hoofd opmaakt,24.6587125,3,18,Vrouw,ASO/doorstroomfinaliteit,4-5 uren,Gemiddeld,c3f96697-0816-4f4e-831f-ba806a6e09d6
+5,F,F6,F6,F6,Insight,I10,correct,46.1118851,"de kaars laten lopen, enkele keer",98.2670757,7,18,Vrouw,ASO/doorstroomfinaliteit,4-5 uren,Gemiddeld,c3f96697-0816-4f4e-831f-ba806a6e09d6
+6,F,F9,F9,F9,RAT,R1,correct,29.832797,uitgaan,18.2221689,7,18,Vrouw,ASO/doorstroomfinaliteit,4-5 uren,Gemiddeld,c3f96697-0816-4f4e-831f-ba806a6e09d6
+6,F,F12,F12,F12,Insight,I2,correct,32.0961469,de maan,15.0858145,4,18,Vrouw,ASO/doorstroomfinaliteit,4-5 uren,Gemiddeld,c3f96697-0816-4f4e-831f-ba806a6e09d6
+6,F,F3,F3,F3,RAT,R4,correct,15.3430721,natuur,9.5903482,3,18,Vrouw,ASO/doorstroomfinaliteit,4-5 uren,Gemiddeld,c3f96697-0816-4f4e-831f-ba806a6e09d6
+6,F,F1,F1,F1,Insight,I7,correct,11.2627858,"door de F
+lash te zijn",83.1876447,7,18,Vrouw,ASO/doorstroomfinaliteit,4-5 uren,Gemiddeld,c3f96697-0816-4f4e-831f-ba806a6e09d6

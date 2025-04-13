@@ -1,0 +1,25 @@
+block_number,experimental_condition,belief_id,critique_id,mc_id,task_type,task_id,response_1,reaction_time_1,response_2,reaction_time_2,response_3,age,gender,education_level (third grade),social_media_hours (daily),verbal_intelligence (self-perceived),participant_identification
+1,F,F4,F4,F4,RAT,R7,correct,76.2048865,boeken,11.9383682,4,21,Man,ASO/doorstroomfinaliteit,4-5 uren,Hoog,351g47b-9a2c-6edc-c88a-d618da8a444d
+1,F,F6,F6,F6,Insight,I3,correct,72.7837778,No Response,87.3909737,2,21,Man,ASO/doorstroomfinaliteit,4-5 uren,Hoog,351g47b-9a2c-6edc-c88a-d618da8a444d
+1,F,F5,F5,F5,Insight,I1,incorrect,75.7120344,Hij stond laag op de ladder van 12 meter,45.9609871,6,21,Man,ASO/doorstroomfinaliteit,4-5 uren,Hoog,351g47b-9a2c-6edc-c88a-d618da8a444d
+1,F,F9,F9,F9,RAT,R1,correct,34.9156099,No Response,18.3693336,1,21,Man,ASO/doorstroomfinaliteit,4-5 uren,Hoog,351g47b-9a2c-6edc-c88a-d618da8a444d
+2,F,F11,F11,F11,RAT,R9,correct,72.111379,brood,10.2847461,1,21,Man,ASO/doorstroomfinaliteit,4-5 uren,Hoog,351g47b-9a2c-6edc-c88a-d618da8a444d
+2,F,F10,F10,F10,Insight,I8,correct,62.8311619,coach > Hem > Ruben > Marit,111.3191252,5,21,Man,ASO/doorstroomfinaliteit,4-5 uren,Hoog,351g47b-9a2c-6edc-c88a-d618da8a444d
+2,F,F7,F7,F7,Insight,I5,incorrect,25.3427975,wind,29.7709206,1,21,Man,ASO/doorstroomfinaliteit,4-5 uren,Hoog,351g47b-9a2c-6edc-c88a-d618da8a444d
+2,F,F8,F8,F8,RAT,R5,correct,35.9186022,No Response,18.2346089,6,21,Man,ASO/doorstroomfinaliteit,4-5 uren,Hoog,351g47b-9a2c-6edc-c88a-d618da8a444d
+3,DFU,DFU10,DFU10,DFU10,Insight,I2,incorrect,39.6976388,No Response,65.621795,5,21,Man,ASO/doorstroomfinaliteit,4-5 uren,Hoog,351g47b-9a2c-6edc-c88a-d618da8a444d
+3,DFU,DFU9,DFU9,DFU9,Insight,I9,correct,46.0716023,het was een scam gewoon,120.0084875,6,21,Man,ASO/doorstroomfinaliteit,4-5 uren,Hoog,351g47b-9a2c-6edc-c88a-d618da8a444d
+3,DFU,DFU3,DFU3,DFU3,RAT,R6,incorrect,45.3347665,No Response,18.23623363,5,21,Man,ASO/doorstroomfinaliteit,4-5 uren,Hoog,351g47b-9a2c-6edc-c88a-d618da8a444d
+3,DFU,DFU8,DFU8,DFU8,RAT,R4,correct,31.4076529,water,7.9590052,6,21,Man,ASO/doorstroomfinaliteit,4-5 uren,Hoog,351g47b-9a2c-6edc-c88a-d618da8a444d
+4,F,F3,F3,F3,Insight,I12,correct,43.2098852,vuur,46.1451387,2,21,Man,ASO/doorstroomfinaliteit,4-5 uren,Hoog,351g47b-9a2c-6edc-c88a-d618da8a444d
+4,F,F1,F1,F1,Insight,I4,correct,69.6302923,No Response,75.9027137,5,21,Man,ASO/doorstroomfinaliteit,4-5 uren,Hoog,351g47b-9a2c-6edc-c88a-d618da8a444d
+4,F,F12,F12,F12,RAT,R8,correct,52.2753774,No Response,20.0162126,2,21,Man,ASO/doorstroomfinaliteit,4-5 uren,Hoog,351g47b-9a2c-6edc-c88a-d618da8a444d
+4,F,F2,F2,F2,RAT,R11,correct,60.6066423,No Response,20.0017776,2,21,Man,ASO/doorstroomfinaliteit,4-5 uren,Hoog,351g47b-9a2c-6edc-c88a-d618da8a444d
+5,DFU,DFU11,DFU11,DFU11,Insight,I11,correct,74.8876866,temperatuur,18.252733,3,21,Man,ASO/doorstroomfinaliteit,4-5 uren,Hoog,351g47b-9a2c-6edc-c88a-d618da8a444d
+5,DFU,DFU6,DFU6,DFU6,Insight,I6,correct,31.4423593,hij is blind,12.3119197,2,21,Man,ASO/doorstroomfinaliteit,4-5 uren,Hoog,351g47b-9a2c-6edc-c88a-d618da8a444d
+5,DFU,DFU2,DFU2,DFU2,RAT,R12,correct,38.0290466,No Response,20.0064432,5,21,Man,ASO/doorstroomfinaliteit,4-5 uren,Hoog,351g47b-9a2c-6edc-c88a-d618da8a444d
+5,DFU,DFU5,DFU5,DFU5,RAT,R2,correct,33.6008134,No Response,20.016034,4,21,Man,ASO/doorstroomfinaliteit,4-5 uren,Hoog,351g47b-9a2c-6edc-c88a-d618da8a444d
+6,DFU,DFU4,DFU4,DFU4,Insight,I7,correct,30.3784268,het meer staat droog ; of bevroren,37.0070607,3,21,Man,ASO/doorstroomfinaliteit,4-5 uren,Hoog,351g47b-9a2c-6edc-c88a-d618da8a444d
+6,DFU,DFU12,DFU12,DFU12,Insight,I10,incorrect,91.39639683,No Response,81.7641982,7,21,Man,ASO/doorstroomfinaliteit,4-5 uren,Hoog,351g47b-9a2c-6edc-c88a-d618da8a444d
+6,DFU,DFU1,DFU1,DFU1,RAT,R3,correct,20.658735,sneeuw,16.8194376,5,21,Man,ASO/doorstroomfinaliteit,4-5 uren,Hoog,351g47b-9a2c-6edc-c88a-d618da8a444d
+6,DFU,DFU7,DFU7,DFU7,RAT,R10,correct,23.1629061,No Response,17.5041396,5,21,Man,ASO/doorstroomfinaliteit,4-5 uren,Hoog,351g47b-9a2c-6edc-c88a-d618da8a444d

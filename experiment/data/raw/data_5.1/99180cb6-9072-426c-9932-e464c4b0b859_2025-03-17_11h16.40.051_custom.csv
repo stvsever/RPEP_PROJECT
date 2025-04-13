@@ -1,0 +1,26 @@
+block_number,experimental_condition,belief_id,critique_id,mc_id,task_type,task_id,response_1,reaction_time_1,response_2,reaction_time_2,response_3,age,gender,education_level (third grade),social_media_hours (daily),verbal_intelligence (self-perceived),participant_identification
+1,F,F1,F1,F1,RAT,R9,correct,71.46496650000336,b,4.855002900003456,4,20,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,99180cb6-9072-426c-9932-e464c4b0b859
+1,F,F4,F4,F4,RAT,R10,correct,59.83409429999301,b,3.122149700007867,1,20,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,99180cb6-9072-426c-9932-e464c4b0b859
+1,F,F2,F2,F2,RAT,R4,incorrect,55.72046539999428,fruit,18.27039390002028,1,20,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,99180cb6-9072-426c-9932-e464c4b0b859
+1,F,F12,F12,F12,RAT,R5,correct,44.414156999991974,kleur,18.53545419999864,4,20,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,99180cb6-9072-426c-9932-e464c4b0b859
+2,F,F11,F11,F11,Insight,I11,correct,46.74065719998907,bal,19.18906020000577,1,20,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,99180cb6-9072-426c-9932-e464c4b0b859
+2,F,F3,F3,F3,Insight,I7,correct,50.14668870001333,met een brug,23.39723510001204,7,20,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,99180cb6-9072-426c-9932-e464c4b0b859
+2,F,F6,F6,F6,RAT,R6,correct,54.74780130002182,keuken,10.789389599987771,1,20,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,99180cb6-9072-426c-9932-e464c4b0b859
+2,F,F7,F7,F7,Insight,I8,incorrect,44.76902059998247,Hem<ruben<marit,112.76918670002487,1,20,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,99180cb6-9072-426c-9932-e464c4b0b859
+3,DFU,DFU10,DFU10,DFU10,RAT,R3,correct,51.489716699987184,hond,12.48959150002338,4,20,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,99180cb6-9072-426c-9932-e464c4b0b859
+3,DFU,DFU12,DFU12,DFU12,RAT,R12,correct,73.6720040999935,geit,15.989906500006327,4,20,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,99180cb6-9072-426c-9932-e464c4b0b859
+3,DFU,DFU4,DFU4,DFU4,Insight,I4,correct,47.154246099991724,2,81.82219350000378,7,20,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,99180cb6-9072-426c-9932-e464c4b0b859
+3,DFU,DFU5,DFU5,DFU5,Insight,I9,correct,27.360201100003906,geen begrip over  gebruik vqn v.chr  in die periode,95.55937149998499,4,20,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,99180cb6-9072-426c-9932-e464c4b0b859
+4,DFU,DFU11,DFU11,DFU11,Insight,I6,incorrect,49.750911200011615,"misschien voelt  hij zich enkel
+ alsof hij verhuld is in duisternis",60.89871559999301,4,20,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,99180cb6-9072-426c-9932-e464c4b0b859
+4,DFU,DFU6,DFU6,DFU6,RAT,R2,correct,39.76149659999646,zwitserland,15.062859800003935,7,20,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,99180cb6-9072-426c-9932-e464c4b0b859
+4,DFU,DFU9,DFU9,DFU9,Insight,I12,correct,36.68277600000147,boom,24.70599650000804,7,20,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,99180cb6-9072-426c-9932-e464c4b0b859
+4,DFU,DFU2,DFU2,DFU2,RAT,R8,correct,18.578587000025436,huis,17.369256999983918,7,20,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,99180cb6-9072-426c-9932-e464c4b0b859
+5,DFU,DFU8,DFU8,DFU8,Insight,I5,correct,19.209812799992505,bagage,34.40779259998817,7,20,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,99180cb6-9072-426c-9932-e464c4b0b859
+5,DFU,DFU1,DFU1,DFU1,RAT,R11,incorrect,30.493097500002477,weegschaal,14.17287340000621,1,20,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,99180cb6-9072-426c-9932-e464c4b0b859
+5,DFU,DFU7,DFU7,DFU7,Insight,I10,correct,27.123071099980734,gebruik de  11  minuten zandloper en daarna de 7 maar stop ongeveer hqlverwege,70.82241590000922,1,20,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,99180cb6-9072-426c-9932-e464c4b0b859
+5,DFU,DFU3,DFU3,DFU3,RAT,R1,correct,20.40492699999595,uitgaan,13.900336899998365,1,20,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,99180cb6-9072-426c-9932-e464c4b0b859
+6,F,F5,F5,F5,Insight,I2,correct,16.847766999999294,een kaart,20.090995900012786,4,20,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,99180cb6-9072-426c-9932-e464c4b0b859
+6,F,F8,F8,F8,Insight,I1,incorrect,31.092437500017695,hij is waarschijnlijk nog niet opgeklommen of hoog geraakt,36.30249939998612,7,20,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,99180cb6-9072-426c-9932-e464c4b0b859
+6,F,F9,F9,F9,RAT,R7,correct,17.206381399999373,hout,16.15498620001017,4,20,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,99180cb6-9072-426c-9932-e464c4b0b859
+6,F,F10,F10,F10,Insight,I3,correct,7.039012199995341,gevoelens,15.489024700014852,4,20,Vrouw,ASO/doorstroomfinaliteit,2-3 uren,Gemiddeld,99180cb6-9072-426c-9932-e464c4b0b859

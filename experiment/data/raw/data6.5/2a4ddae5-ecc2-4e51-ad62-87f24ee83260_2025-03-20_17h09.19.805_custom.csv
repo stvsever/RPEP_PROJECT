@@ -1,0 +1,25 @@
+block_number,experimental_condition,belief_id,critique_id,mc_id,task_type,task_id,response_1,reaction_time_1,response_2,reaction_time_2,response_3,age,gender,education_level (third grade),social_media_hours (daily),verbal_intelligence (self-perceived),participant_identification
+1,DFU,DFU10,DFU10,DFU10,Insight,I11,correct,31.6586389,Luchtdruk,84.9546282,7,18,Man,ASO/doorstroomfinaliteit,6-7 uren,Boven gemiddeld,2a4ddae5-ecc2-4e51-ad62-87f24ee83260
+1,DFU,DFU8,DFU8,DFU8,RAT,R9,incorrect,46.624697,Brood,7.0426366,1,18,Man,ASO/doorstroomfinaliteit,6-7 uren,Boven gemiddeld,2a4ddae5-ecc2-4e51-ad62-87f24ee83260
+1,DFU,DFU4,DFU4,DFU4,RAT,R5,correct,20.4948826,Goud,12.9320613,3,18,Man,ASO/doorstroomfinaliteit,6-7 uren,Boven gemiddeld,2a4ddae5-ecc2-4e51-ad62-87f24ee83260
+1,DFU,DFU2,DFU2,DFU2,RAT,R6,correct,17.6699279,deur,7.716735,7,18,Man,ASO/doorstroomfinaliteit,6-7 uren,Boven gemiddeld,2a4ddae5-ecc2-4e51-ad62-87f24ee83260
+2,DFU,DFU7,DFU7,DFU7,RAT,R10,correct,13.7689611,idkkk crying emoji,17.706226,2,18,Man,ASO/doorstroomfinaliteit,6-7 uren,Boven gemiddeld,2a4ddae5-ecc2-4e51-ad62-87f24ee83260
+2,DFU,DFU9,DFU9,DFU9,Insight,I5,correct,18.6101995,/,110.2210452,7,18,Man,ASO/doorstroomfinaliteit,6-7 uren,Boven gemiddeld,2a4ddae5-ecc2-4e51-ad62-87f24ee83260
+2,DFU,DFU3,DFU3,DFU3,Insight,I3,correct,23.8016957,stilte,5.0215826,4,18,Man,ASO/doorstroomfinaliteit,6-7 uren,Boven gemiddeld,2a4ddae5-ecc2-4e51-ad62-87f24ee83260
+2,DFU,DFU6,DFU6,DFU6,Insight,I4,correct,32.4689966,de letter m,10.9186102,1,18,Man,ASO/doorstroomfinaliteit,6-7 uren,Boven gemiddeld,2a4ddae5-ecc2-4e51-ad62-87f24ee83260
+3,F,F4,F4,F4,Insight,I6,correct,22.0405013,"hij leest op zijn gsm met licht dus, straling",25.5533168,6,18,Man,ASO/doorstroomfinaliteit,6-7 uren,Boven gemiddeld,2a4ddae5-ecc2-4e51-ad62-87f24ee83260
+3,F,F7,F7,F7,Insight,I7,incorrect,35.9326047,als het bevroren is kun je er makkelijk over lopen,24.3237636,6,18,Man,ASO/doorstroomfinaliteit,6-7 uren,Boven gemiddeld,2a4ddae5-ecc2-4e51-ad62-87f24ee83260
+3,F,F8,F8,F8,RAT,R2,incorrect,18.3612403,ermmm,11.2654017,4,18,Man,ASO/doorstroomfinaliteit,6-7 uren,Boven gemiddeld,2a4ddae5-ecc2-4e51-ad62-87f24ee83260
+3,F,F3,F3,F3,RAT,R11,incorrect,16.0420491,lichaam??,12.4791949,5,18,Man,ASO/doorstroomfinaliteit,6-7 uren,Boven gemiddeld,2a4ddae5-ecc2-4e51-ad62-87f24ee83260
+4,F,F6,F6,F6,RAT,R12,correct,26.0958815,steen,6.4969755,6,18,Man,ASO/doorstroomfinaliteit,6-7 uren,Boven gemiddeld,2a4ddae5-ecc2-4e51-ad62-87f24ee83260
+4,F,F9,F9,F9,RAT,R7,correct,22.6216216,boek,5.4923058,5,18,Man,ASO/doorstroomfinaliteit,6-7 uren,Boven gemiddeld,2a4ddae5-ecc2-4e51-ad62-87f24ee83260
+4,F,F11,F11,F11,Insight,I12,incorrect,19.1630911,een vlam,16.3041986,7,18,Man,ASO/doorstroomfinaliteit,6-7 uren,Boven gemiddeld,2a4ddae5-ecc2-4e51-ad62-87f24ee83260
+4,F,F10,F10,F10,RAT,R1,incorrect,18.3914988,wat te flip,15.9395314,4,18,Man,ASO/doorstroomfinaliteit,6-7 uren,Boven gemiddeld,2a4ddae5-ecc2-4e51-ad62-87f24ee83260
+5,DFU,DFU1,DFU1,DFU1,RAT,R4,correct,17.8770774,water,5.8181951,5,18,Man,ASO/doorstroomfinaliteit,6-7 uren,Boven gemiddeld,2a4ddae5-ecc2-4e51-ad62-87f24ee83260
+5,DFU,DFU11,DFU11,DFU11,Insight,I8,correct,17.5563453,coach > hem > ruben > marit,44.0091444,2,18,Man,ASO/doorstroomfinaliteit,6-7 uren,Boven gemiddeld,2a4ddae5-ecc2-4e51-ad62-87f24ee83260
+5,DFU,DFU5,DFU5,DFU5,RAT,R3,correct,18.4726201,zaag,13.9837275,3,18,Man,ASO/doorstroomfinaliteit,6-7 uren,Boven gemiddeld,2a4ddae5-ecc2-4e51-ad62-87f24ee83260
+5,DFU,DFU12,DFU12,DFU12,Insight,I1,correct,17.0072786,de ladder kan 12 meter zijn maar dat betekent niet dat de glazenwasser helemaal van boven is gevallen,39.3813714,2,18,Man,ASO/doorstroomfinaliteit,6-7 uren,Boven gemiddeld,2a4ddae5-ecc2-4e51-ad62-87f24ee83260
+6,F,F2,F2,F2,Insight,I9,incorrect,30.7473563,de mensen die de munt hadden gemaakt konden niet weten dat Jezus nog geboren zou moeten worden ofzo,96.3718954,4,18,Man,ASO/doorstroomfinaliteit,6-7 uren,Boven gemiddeld,2a4ddae5-ecc2-4e51-ad62-87f24ee83260
+6,F,F5,F5,F5,RAT,R8,correct,16.3721454,reiniger,8.3136483,7,18,Man,ASO/doorstroomfinaliteit,6-7 uren,Boven gemiddeld,2a4ddae5-ecc2-4e51-ad62-87f24ee83260
+6,F,F1,F1,F1,Insight,I10,correct,20.7569475,draai de 7 minuten zandloper twee keer om en tel dan nog een minuut verder in je hoofd of wo iets,85.8016633,6,18,Man,ASO/doorstroomfinaliteit,6-7 uren,Boven gemiddeld,2a4ddae5-ecc2-4e51-ad62-87f24ee83260
+6,F,F12,F12,F12,Insight,I2,incorrect,22.3429656,een verlaten woestijnstad,33.4521459,4,18,Man,ASO/doorstroomfinaliteit,6-7 uren,Boven gemiddeld,2a4ddae5-ecc2-4e51-ad62-87f24ee83260

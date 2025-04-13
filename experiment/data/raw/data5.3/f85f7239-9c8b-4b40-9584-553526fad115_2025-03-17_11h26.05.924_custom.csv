@@ -1,0 +1,25 @@
+block_number,experimental_condition,belief_id,critique_id,mc_id,task_type,task_id,response_1,reaction_time_1,response_2,reaction_time_2,response_3,age,gender,education_level (third grade),social_media_hours (daily),verbal_intelligence (self-perceived),participant_identification
+1,F,F3,F3,F3,Insight,I8,incorrect,54.5032332999981,"ruben, marit, Hem, Hij",97.75072509999154,4,18,Vrouw,ASO/doorstroomfinaliteit,6-7 uren,Gemiddeld,f85f7239-9c8b-4b40-9584-553526fad115
+1,F,F8,F8,F8,RAT,R8,incorrect,64.47372879998875,stoom,18.731602100015152,4,18,Vrouw,ASO/doorstroomfinaliteit,6-7 uren,Gemiddeld,f85f7239-9c8b-4b40-9584-553526fad115
+1,F,F4,F4,F4,RAT,R1,correct,59.25792589999037,avond,20.001885900011985,1,18,Vrouw,ASO/doorstroomfinaliteit,6-7 uren,Gemiddeld,f85f7239-9c8b-4b40-9584-553526fad115
+1,F,F7,F7,F7,RAT,R2,incorrect,33.69537080000737,Nederland,11.128659499983769,4,18,Vrouw,ASO/doorstroomfinaliteit,6-7 uren,Gemiddeld,f85f7239-9c8b-4b40-9584-553526fad115
+2,F,F11,F11,F11,Insight,I7,correct,44.54065450001508,onmogelijk,53.60637900000438,4,18,Vrouw,ASO/doorstroomfinaliteit,6-7 uren,Gemiddeld,f85f7239-9c8b-4b40-9584-553526fad115
+2,F,F12,F12,F12,Insight,I9,correct,52.08953210001346,geen idee,63.611316400027135,4,18,Vrouw,ASO/doorstroomfinaliteit,6-7 uren,Gemiddeld,f85f7239-9c8b-4b40-9584-553526fad115
+2,F,F9,F9,F9,Insight,I3,incorrect,33.2000000999833,een hart,14.875102899997728,1,18,Vrouw,ASO/doorstroomfinaliteit,6-7 uren,Gemiddeld,f85f7239-9c8b-4b40-9584-553526fad115
+2,F,F10,F10,F10,RAT,R6,correct,29.91259920000448,huis,15.88799139999901,4,18,Vrouw,ASO/doorstroomfinaliteit,6-7 uren,Gemiddeld,f85f7239-9c8b-4b40-9584-553526fad115
+3,DFU,DFU2,DFU2,DFU2,Insight,I6,correct,50.77271610000753,hij leest gedachten,16.137989099981496,4,18,Vrouw,ASO/doorstroomfinaliteit,6-7 uren,Gemiddeld,f85f7239-9c8b-4b40-9584-553526fad115
+3,DFU,DFU7,DFU7,DFU7,Insight,I2,incorrect,26.613186999980826,leegte,61.81997829998727,4,18,Vrouw,ASO/doorstroomfinaliteit,6-7 uren,Gemiddeld,f85f7239-9c8b-4b40-9584-553526fad115
+3,DFU,DFU10,DFU10,DFU10,RAT,R5,incorrect,26.831617899995763,fishtick,19.80203479999909,4,18,Vrouw,ASO/doorstroomfinaliteit,6-7 uren,Gemiddeld,f85f7239-9c8b-4b40-9584-553526fad115
+3,DFU,DFU11,DFU11,DFU11,Insight,I10,correct,51.62741869999445,1keer 7 en dan 11 ond,120.00860339999781,4,18,Vrouw,ASO/doorstroomfinaliteit,6-7 uren,Gemiddeld,f85f7239-9c8b-4b40-9584-553526fad115
+4,DFU,DFU6,DFU6,DFU6,Insight,I5,incorrect,28.383534799999325,No Response,39.57370740000624,3,18,Vrouw,ASO/doorstroomfinaliteit,6-7 uren,Gemiddeld,f85f7239-9c8b-4b40-9584-553526fad115
+4,DFU,DFU8,DFU8,DFU8,RAT,R9,correct,29.613723400019808,boter,16.217601399985142,3,18,Vrouw,ASO/doorstroomfinaliteit,6-7 uren,Gemiddeld,f85f7239-9c8b-4b40-9584-553526fad115
+4,DFU,DFU12,DFU12,DFU12,RAT,R10,incorrect,28.843151400011266,No Response,0.022678000008454546,3,18,Vrouw,ASO/doorstroomfinaliteit,6-7 uren,Gemiddeld,f85f7239-9c8b-4b40-9584-553526fad115
+4,DFU,DFU3,DFU3,DFU3,RAT,R12,correct,37.25326299999142,No Response,20.00635660000262,4,18,Vrouw,ASO/doorstroomfinaliteit,6-7 uren,Gemiddeld,f85f7239-9c8b-4b40-9584-553526fad115
+5,DFU,DFU5,DFU5,DFU5,RAT,R3,correct,26.423011099977884,accesoires,14.705470699991565,4,18,Vrouw,ASO/doorstroomfinaliteit,6-7 uren,Gemiddeld,f85f7239-9c8b-4b40-9584-553526fad115
+5,DFU,DFU9,DFU9,DFU9,Insight,I1,correct,26.20509089998086,hij stond niet op de bovenste trede,23.14880870000343,6,18,Vrouw,ASO/doorstroomfinaliteit,6-7 uren,Gemiddeld,f85f7239-9c8b-4b40-9584-553526fad115
+5,DFU,DFU1,DFU1,DFU1,Insight,I11,correct,25.203807399986545,No Response,39.67108899998129,4,18,Vrouw,ASO/doorstroomfinaliteit,6-7 uren,Gemiddeld,f85f7239-9c8b-4b40-9584-553526fad115
+5,DFU,DFU4,DFU4,DFU4,RAT,R4,correct,31.572951099980855,lente,9.303564200003166,4,18,Vrouw,ASO/doorstroomfinaliteit,6-7 uren,Gemiddeld,f85f7239-9c8b-4b40-9584-553526fad115
+6,F,F6,F6,F6,Insight,I12,correct,23.836197099997662,plant,32.223279300000286,4,18,Vrouw,ASO/doorstroomfinaliteit,6-7 uren,Gemiddeld,f85f7239-9c8b-4b40-9584-553526fad115
+6,F,F2,F2,F2,Insight,I4,correct,33.79056100000162,letter m,14.988263600011123,4,18,Vrouw,ASO/doorstroomfinaliteit,6-7 uren,Gemiddeld,f85f7239-9c8b-4b40-9584-553526fad115
+6,F,F5,F5,F5,RAT,R11,correct,19.07528089999687,weegschaal,16.946481199993286,1,18,Vrouw,ASO/doorstroomfinaliteit,6-7 uren,Gemiddeld,f85f7239-9c8b-4b40-9584-553526fad115
+6,F,F1,F1,F1,RAT,R7,correct,29.260596700012684,No Response,14.354199599998537,4,18,Vrouw,ASO/doorstroomfinaliteit,6-7 uren,Gemiddeld,f85f7239-9c8b-4b40-9584-553526fad115

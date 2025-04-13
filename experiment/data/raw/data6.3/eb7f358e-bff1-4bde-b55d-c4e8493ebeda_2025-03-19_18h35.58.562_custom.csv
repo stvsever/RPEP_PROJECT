@@ -1,0 +1,25 @@
+block_number,experimental_condition,belief_id,critique_id,mc_id,task_type,task_id,response_1,reaction_time_1,response_2,reaction_time_2,response_3,age,gender,education_level (third grade),social_media_hours (daily),verbal_intelligence (self-perceived),participant_identification
+1,F,F5,F5,F5,Insight,I11,correct,47.5570308,geen idee,44.098245,1,18,Vrouw,ASO/doorstroomfinaliteit,8-9 uren,Gemiddeld,eb7f358e-bff1-4bde-b55d-c4e8493ebeda
+1,F,F7,F7,F7,Insight,I7,incorrect,45.0070778,een heel ondiep meer moet het dan zijn,74.8052236,4,18,Vrouw,ASO/doorstroomfinaliteit,8-9 uren,Gemiddeld,eb7f358e-bff1-4bde-b55d-c4e8493ebeda
+1,F,F2,F2,F2,Insight,I5,correct,60.0251996,de stoel van een vliegtuig,99.1649543,4,18,Vrouw,ASO/doorstroomfinaliteit,8-9 uren,Gemiddeld,eb7f358e-bff1-4bde-b55d-c4e8493ebeda
+1,F,F4,F4,F4,RAT,R3,correct,44.1822267,No Response,20.0035944,5,18,Vrouw,ASO/doorstroomfinaliteit,8-9 uren,Gemiddeld,eb7f358e-bff1-4bde-b55d-c4e8493ebeda
+2,DFU,DFU4,DFU4,DFU4,RAT,R7,correct,31.9944618,No Response,20.0102616,3,18,Vrouw,ASO/doorstroomfinaliteit,8-9 uren,Gemiddeld,eb7f358e-bff1-4bde-b55d-c4e8493ebeda
+2,DFU,DFU12,DFU12,DFU12,RAT,R10,correct,35.1238617,auto,11.2920631,4,18,Vrouw,ASO/doorstroomfinaliteit,8-9 uren,Gemiddeld,eb7f358e-bff1-4bde-b55d-c4e8493ebeda
+2,DFU,DFU10,DFU10,DFU10,Insight,I4,incorrect,28.7158946,de letter m,61.1679626,6,18,Vrouw,ASO/doorstroomfinaliteit,8-9 uren,Gemiddeld,eb7f358e-bff1-4bde-b55d-c4e8493ebeda
+2,DFU,DFU1,DFU1,DFU1,Insight,I8,correct,23.7670527,coach>hem>ruben>marit,99.372377,5,18,Vrouw,ASO/doorstroomfinaliteit,8-9 uren,Gemiddeld,eb7f358e-bff1-4bde-b55d-c4e8493ebeda
+3,F,F3,F3,F3,RAT,R12,incorrect,30.6041676,mijn,12.1561039,3,18,Vrouw,ASO/doorstroomfinaliteit,8-9 uren,Gemiddeld,eb7f358e-bff1-4bde-b55d-c4e8493ebeda
+3,F,F1,F1,F1,Insight,I3,correct,28.1219714,een hart,7.0555276,4,18,Vrouw,ASO/doorstroomfinaliteit,8-9 uren,Gemiddeld,eb7f358e-bff1-4bde-b55d-c4e8493ebeda
+3,F,F10,F10,F10,RAT,R5,correct,20.2311056,goudvis,11.2348131,4,18,Vrouw,ASO/doorstroomfinaliteit,8-9 uren,Gemiddeld,eb7f358e-bff1-4bde-b55d-c4e8493ebeda
+3,F,F11,F11,F11,RAT,R9,correct,18.8325441,ontbijt,13.5990551,2,18,Vrouw,ASO/doorstroomfinaliteit,8-9 uren,Gemiddeld,eb7f358e-bff1-4bde-b55d-c4e8493ebeda
+4,F,F8,F8,F8,RAT,R11,correct,22.0117925,dokter,8.2703073,5,18,Vrouw,ASO/doorstroomfinaliteit,8-9 uren,Gemiddeld,eb7f358e-bff1-4bde-b55d-c4e8493ebeda
+4,F,F9,F9,F9,Insight,I12,correct,18.6976331,boom,43.2794867,6,18,Vrouw,ASO/doorstroomfinaliteit,8-9 uren,Gemiddeld,eb7f358e-bff1-4bde-b55d-c4e8493ebeda
+4,F,F6,F6,F6,Insight,I10,correct,12.3625878,No Response,50.1357054,3,18,Vrouw,ASO/doorstroomfinaliteit,8-9 uren,Gemiddeld,eb7f358e-bff1-4bde-b55d-c4e8493ebeda
+4,F,F12,F12,F12,RAT,R1,correct,9.4948522,bal,11.0050275,5,18,Vrouw,ASO/doorstroomfinaliteit,8-9 uren,Gemiddeld,eb7f358e-bff1-4bde-b55d-c4e8493ebeda
+5,DFU,DFU5,DFU5,DFU5,RAT,R8,correct,21.6524212,kerst,16.2171171,1,18,Vrouw,ASO/doorstroomfinaliteit,8-9 uren,Gemiddeld,eb7f358e-bff1-4bde-b55d-c4e8493ebeda
+5,DFU,DFU3,DFU3,DFU3,RAT,R6,correct,26.7873589,huis,9.2859177,2,18,Vrouw,ASO/doorstroomfinaliteit,8-9 uren,Gemiddeld,eb7f358e-bff1-4bde-b55d-c4e8493ebeda
+5,DFU,DFU8,DFU8,DFU8,RAT,R4,incorrect,25.849146,groen,13.6877843,4,18,Vrouw,ASO/doorstroomfinaliteit,8-9 uren,Gemiddeld,eb7f358e-bff1-4bde-b55d-c4e8493ebeda
+5,DFU,DFU11,DFU11,DFU11,Insight,I6,incorrect,29.4484446,hij heeft een lampje mee,53.1162217,5,18,Vrouw,ASO/doorstroomfinaliteit,8-9 uren,Gemiddeld,eb7f358e-bff1-4bde-b55d-c4e8493ebeda
+6,DFU,DFU9,DFU9,DFU9,Insight,I2,correct,19.6441025,spelbord,46.8795365,7,18,Vrouw,ASO/doorstroomfinaliteit,8-9 uren,Gemiddeld,eb7f358e-bff1-4bde-b55d-c4e8493ebeda
+6,DFU,DFU2,DFU2,DFU2,Insight,I9,correct,23.2693425,omdat er voor christus nog geen geld was,60.5612116,7,18,Vrouw,ASO/doorstroomfinaliteit,8-9 uren,Gemiddeld,eb7f358e-bff1-4bde-b55d-c4e8493ebeda
+6,DFU,DFU7,DFU7,DFU7,Insight,I1,correct,22.9244148,het was een elektrische glazenwasser,55.6462793,1,18,Vrouw,ASO/doorstroomfinaliteit,8-9 uren,Gemiddeld,eb7f358e-bff1-4bde-b55d-c4e8493ebeda
+6,DFU,DFU6,DFU6,DFU6,RAT,R2,correct,8.7401888,belgie,5.9724459,5,18,Vrouw,ASO/doorstroomfinaliteit,8-9 uren,Gemiddeld,eb7f358e-bff1-4bde-b55d-c4e8493ebeda

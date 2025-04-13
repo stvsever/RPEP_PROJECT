@@ -1,0 +1,25 @@
+block_number,experimental_condition,belief_id,critique_id,mc_id,task_type,task_id,response_1,reaction_time_1,response_2,reaction_time_2,response_3,age,gender,education_level (third grade),social_media_hours (daily),verbal_intelligence (self-perceived),participant_identification
+1,DFU,DFU12,DFU12,DFU12,Insight,I7,correct,61.5043961,Als het meer bevroren is,93.4283876,5,21,Man,ASO/doorstroomfinaliteit,0-1 uur,Extreem laag,6d1877c9-522c-4d4d-95dd-51b0e4dec138
+1,DFU,DFU4,DFU4,DFU4,RAT,R2,correct,81.8723653,mickey ;ou,20.0012515,5,21,Man,ASO/doorstroomfinaliteit,0-1 uur,Extreem laag,6d1877c9-522c-4d4d-95dd-51b0e4dec138
+1,DFU,DFU11,DFU11,DFU11,Insight,I8,correct,48.6581316,"marit, ruben, hem en coach",107.0641676,5,21,Man,ASO/doorstroomfinaliteit,0-1 uur,Extreem laag,6d1877c9-522c-4d4d-95dd-51b0e4dec138
+1,DFU,DFU6,DFU6,DFU6,Insight,I11,correct,62.6565146,gewicht,89.928236,4,21,Man,ASO/doorstroomfinaliteit,0-1 uur,Extreem laag,6d1877c9-522c-4d4d-95dd-51b0e4dec138
+2,F,F8,F8,F8,Insight,I10,correct,34.2060427,No Response,107.6256233,5,21,Man,ASO/doorstroomfinaliteit,0-1 uur,Extreem laag,6d1877c9-522c-4d4d-95dd-51b0e4dec138
+2,F,F10,F10,F10,RAT,R6,correct,34.1967996,stoel,18.9107101,4,21,Man,ASO/doorstroomfinaliteit,0-1 uur,Extreem laag,6d1877c9-522c-4d4d-95dd-51b0e4dec138
+2,F,F11,F11,F11,Insight,I3,correct,42.2584545,No Response,70.5616743,4,21,Man,ASO/doorstroomfinaliteit,0-1 uur,Extreem laag,6d1877c9-522c-4d4d-95dd-51b0e4dec138
+2,F,F2,F2,F2,Insight,I4,correct,49.2064931,No Response,90.6344443,4,21,Man,ASO/doorstroomfinaliteit,0-1 uur,Extreem laag,6d1877c9-522c-4d4d-95dd-51b0e4dec138
+3,F,F9,F9,F9,RAT,R7,correct,28.7023999,dierenliefhebber,19.5262643,4,21,Man,ASO/doorstroomfinaliteit,0-1 uur,Extreem laag,6d1877c9-522c-4d4d-95dd-51b0e4dec138
+3,F,F4,F4,F4,Insight,I9,correct,37.2315461,omdat er toen nog geen munten bestonden,107.3106653,4,21,Man,ASO/doorstroomfinaliteit,0-1 uur,Extreem laag,6d1877c9-522c-4d4d-95dd-51b0e4dec138
+3,F,F7,F7,F7,RAT,R8,correct,47.8408445,huis,10.2219817,4,21,Man,ASO/doorstroomfinaliteit,0-1 uur,Extreem laag,6d1877c9-522c-4d4d-95dd-51b0e4dec138
+3,F,F3,F3,F3,Insight,I12,correct,35.648299,vuur,77.1038123,4,21,Man,ASO/doorstroomfinaliteit,0-1 uur,Extreem laag,6d1877c9-522c-4d4d-95dd-51b0e4dec138
+4,F,F12,F12,F12,Insight,I5,correct,37.7622202,stof,41.5045051,4,21,Man,ASO/doorstroomfinaliteit,0-1 uur,Extreem laag,6d1877c9-522c-4d4d-95dd-51b0e4dec138
+4,F,F6,F6,F6,RAT,R5,correct,24.4499284,cowboy,15.5999,4,21,Man,ASO/doorstroomfinaliteit,0-1 uur,Extreem laag,6d1877c9-522c-4d4d-95dd-51b0e4dec138
+4,F,F1,F1,F1,RAT,R9,correct,40.8053814,leerling,14.1839465,4,21,Man,ASO/doorstroomfinaliteit,0-1 uur,Extreem laag,6d1877c9-522c-4d4d-95dd-51b0e4dec138
+4,F,F5,F5,F5,RAT,R12,correct,24.7165561,keuken,13.8037925,4,21,Man,ASO/doorstroomfinaliteit,0-1 uur,Extreem laag,6d1877c9-522c-4d4d-95dd-51b0e4dec138
+5,DFU,DFU8,DFU8,DFU8,RAT,R10,correct,-0.6058634,eigenaar,13.5394237,5,21,Man,ASO/doorstroomfinaliteit,0-1 uur,Extreem laag,6d1877c9-522c-4d4d-95dd-51b0e4dec138
+5,DFU,DFU10,DFU10,DFU10,RAT,R4,correct,36.1650374,markt,13.7907798,5,21,Man,ASO/doorstroomfinaliteit,0-1 uur,Extreem laag,6d1877c9-522c-4d4d-95dd-51b0e4dec138
+5,DFU,DFU3,DFU3,DFU3,Insight,I6,correct,36.0505546,via braille,67.0640599,2,21,Man,ASO/doorstroomfinaliteit,0-1 uur,Extreem laag,6d1877c9-522c-4d4d-95dd-51b0e4dec138
+5,DFU,DFU7,DFU7,DFU7,RAT,R1,correct,56.1476961,uitgaan,8.6402603,3,21,Man,ASO/doorstroomfinaliteit,0-1 uur,Extreem laag,6d1877c9-522c-4d4d-95dd-51b0e4dec138
+6,DFU,DFU5,DFU5,DFU5,Insight,I1,correct,36.9003292,hij was ondersteund  met kabels,68.3656589,3,21,Man,ASO/doorstroomfinaliteit,0-1 uur,Extreem laag,6d1877c9-522c-4d4d-95dd-51b0e4dec138
+6,DFU,DFU1,DFU1,DFU1,RAT,R3,correct,36.7073617,bovenlichaam,18.4691424,5,21,Man,ASO/doorstroomfinaliteit,0-1 uur,Extreem laag,6d1877c9-522c-4d4d-95dd-51b0e4dec138
+6,DFU,DFU9,DFU9,DFU9,Insight,I2,correct,22.9413341,sahara,77.0687113,4,21,Man,ASO/doorstroomfinaliteit,0-1 uur,Extreem laag,6d1877c9-522c-4d4d-95dd-51b0e4dec138
+6,DFU,DFU2,DFU2,DFU2,RAT,R11,correct,31.2140432,agent,16.8455387,7,21,Man,ASO/doorstroomfinaliteit,0-1 uur,Extreem laag,6d1877c9-522c-4d4d-95dd-51b0e4dec138

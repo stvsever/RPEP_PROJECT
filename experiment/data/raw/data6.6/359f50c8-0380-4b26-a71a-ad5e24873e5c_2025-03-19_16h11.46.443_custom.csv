@@ -1,0 +1,27 @@
+block_number,experimental_condition,belief_id,critique_id,mc_id,task_type,task_id,response_1,reaction_time_1,response_2,reaction_time_2,response_3,age,gender,education_level (third grade),social_media_hours (daily),verbal_intelligence (self-perceived),participant_identification
+1,F,F7,F7,F7,RAT,R9,incorrect,45.4207532,brood,7.5613747,6,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Boven gemiddeld,359f50c8-0380-4b26-a71a-ad5e24873e5c
+1,F,F6,F6,F6,RAT,R2,correct,30.7185282,Nederland,15.3941968,5,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Boven gemiddeld,359f50c8-0380-4b26-a71a-ad5e24873e5c
+1,F,F11,F11,F11,Insight,I3,correct,37.2935534,stilte,11.6504868,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Boven gemiddeld,359f50c8-0380-4b26-a71a-ad5e24873e5c
+1,F,F12,F12,F12,Insight,I12,correct,35.6423312,plant,72.9337179,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Boven gemiddeld,359f50c8-0380-4b26-a71a-ad5e24873e5c
+2,F,F8,F8,F8,Insight,I9,correct,24.0953069,In dat jaar had men nog geen munten.,61.9074168,7,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Boven gemiddeld,359f50c8-0380-4b26-a71a-ad5e24873e5c
+2,F,F1,F1,F1,RAT,R5,correct,33.4685763,goudvis,16.5038307,7,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Boven gemiddeld,359f50c8-0380-4b26-a71a-ad5e24873e5c
+2,F,F2,F2,F2,Insight,I7,correct,39.3200217,"Wanneer het water van het meer bevroren is, in de winter dus.",30.2382372,7,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Boven gemiddeld,359f50c8-0380-4b26-a71a-ad5e24873e5c
+2,F,F3,F3,F3,Insight,I1,correct,26.1907475,hij hing nog vast in zijn harnas,30.098455,7,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Boven gemiddeld,359f50c8-0380-4b26-a71a-ad5e24873e5c
+3,DFU,DFU7,DFU7,DFU7,Insight,I6,correct,25.822589,"Hij kan zoals sommige dieren goed in  het donker kijken/ hij draa
+gt een nachtbril",55.8209993,5,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Boven gemiddeld,359f50c8-0380-4b26-a71a-ad5e24873e5c
+3,DFU,DFU4,DFU4,DFU4,RAT,R1,correct,34.4857396,feestje,10.0165598,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Boven gemiddeld,359f50c8-0380-4b26-a71a-ad5e24873e5c
+3,DFU,DFU11,DFU11,DFU11,RAT,R8,correct,26.2107059,vuur,10.6725804,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Boven gemiddeld,359f50c8-0380-4b26-a71a-ad5e24873e5c
+3,DFU,DFU10,DFU10,DFU10,Insight,I10,correct,28.069696,kweetniet,120.0129085,7,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Boven gemiddeld,359f50c8-0380-4b26-a71a-ad5e24873e5c
+4,DFU,DFU1,DFU1,DFU1,RAT,R10,correct,22.3626019,leidband,20.0150206,5,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Boven gemiddeld,359f50c8-0380-4b26-a71a-ad5e24873e5c
+4,DFU,DFU9,DFU9,DFU9,Insight,I4,correct,23.095466,de letter m,12.8680519,3,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Boven gemiddeld,359f50c8-0380-4b26-a71a-ad5e24873e5c
+4,DFU,DFU2,DFU2,DFU2,RAT,R3,correct,26.8899203,No Response,20.0125312,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Boven gemiddeld,359f50c8-0380-4b26-a71a-ad5e24873e5c
+4,DFU,DFU12,DFU12,DFU12,Insight,I11,correct,32.3810442,een wip,85.0072744,6,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Boven gemiddeld,359f50c8-0380-4b26-a71a-ad5e24873e5c
+5,F,F4,F4,F4,RAT,R7,correct,16.3404327,hout,9.1033537,5,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Boven gemiddeld,359f50c8-0380-4b26-a71a-ad5e24873e5c
+5,F,F9,F9,F9,RAT,R12,correct,12.844029,regen,14.9706611,5,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Boven gemiddeld,359f50c8-0380-4b26-a71a-ad5e24873e5c
+5,F,F10,F10,F10,RAT,R11,correct,19.0696371,weegschaal,15.8041811,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Boven gemiddeld,359f50c8-0380-4b26-a71a-ad5e24873e5c
+5,F,F5,F5,F5,Insight,I8,correct,15.0928621,"coach >Hem > Ruben > 
+Marit",117.6997811,3,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Boven gemiddeld,359f50c8-0380-4b26-a71a-ad5e24873e5c
+6,DFU,DFU5,DFU5,DFU5,Insight,I5,correct,26.1933602,wereldbol,61.2886375,6,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Boven gemiddeld,359f50c8-0380-4b26-a71a-ad5e24873e5c
+6,DFU,DFU3,DFU3,DFU3,RAT,R4,correct,26.0360286,bloemen,9.5037077,5,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Boven gemiddeld,359f50c8-0380-4b26-a71a-ad5e24873e5c
+6,DFU,DFU8,DFU8,DFU8,Insight,I2,correct,37.6538244,landkaart,35.6053717,3,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Boven gemiddeld,359f50c8-0380-4b26-a71a-ad5e24873e5c
+6,DFU,DFU6,DFU6,DFU6,RAT,R6,correct,33.6450134,No Response,20.0038686,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Boven gemiddeld,359f50c8-0380-4b26-a71a-ad5e24873e5c

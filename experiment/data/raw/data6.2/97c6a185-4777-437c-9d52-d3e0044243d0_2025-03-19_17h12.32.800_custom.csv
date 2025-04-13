@@ -1,0 +1,25 @@
+block_number,experimental_condition,belief_id,critique_id,mc_id,task_type,task_id,response_1,reaction_time_1,response_2,reaction_time_2,response_3,age,gender,education_level (third grade),social_media_hours (daily),verbal_intelligence (self-perceived),participant_identification
+1,F,F3,F3,F3,Insight,I7,incorrect,85.5177658,ZWEMMEN,117.2537668,1,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,97c6a185-4777-437c-9d52-d3e0044243d0
+1,F,F9,F9,F9,Insight,I9,correct,51.1262312,ER BESTONDEN NOG GEEN MUNTEN,80.0570639,1,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,97c6a185-4777-437c-9d52-d3e0044243d0
+1,F,F6,F6,F6,RAT,R1,correct,35.6741288,UITGAAN,16.6141753,7,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,97c6a185-4777-437c-9d52-d3e0044243d0
+1,F,F5,F5,F5,RAT,R4,correct,23.516343,No Response,20.0038235,1,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,97c6a185-4777-437c-9d52-d3e0044243d0
+2,DFU,DFU3,DFU3,DFU3,RAT,R10,correct,49.3583994,BLAFFEN,11.9052585,4,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,97c6a185-4777-437c-9d52-d3e0044243d0
+2,DFU,DFU2,DFU2,DFU2,RAT,R7,incorrect,35.1686328,No Response,20.0112316,4,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,97c6a185-4777-437c-9d52-d3e0044243d0
+2,DFU,DFU12,DFU12,DFU12,Insight,I3,correct,53.1954064,HART,12.4878396,1,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,97c6a185-4777-437c-9d52-d3e0044243d0
+2,DFU,DFU5,DFU5,DFU5,RAT,R3,correct,33.8892654,No Response,20.0019255,7,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,97c6a185-4777-437c-9d52-d3e0044243d0
+3,DFU,DFU10,DFU10,DFU10,Insight,I12,correct,46.840668,No Response,120.0019198,7,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,97c6a185-4777-437c-9d52-d3e0044243d0
+3,DFU,DFU7,DFU7,DFU7,RAT,R6,incorrect,36.6882968,VERSTOPPEN,13.2208035,1,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,97c6a185-4777-437c-9d52-d3e0044243d0
+3,DFU,DFU1,DFU1,DFU1,Insight,I5,correct,50.8759903,ZON,34.3346893,4,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,97c6a185-4777-437c-9d52-d3e0044243d0
+3,DFU,DFU6,DFU6,DFU6,RAT,R9,correct,26.5335009,LUNCH,11.4795991,4,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,97c6a185-4777-437c-9d52-d3e0044243d0
+4,DFU,DFU8,DFU8,DFU8,Insight,I8,correct,62.3924388,"COACH, HEM, RUBEN, MARIT",43.7892251,3,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,97c6a185-4777-437c-9d52-d3e0044243d0
+4,DFU,DFU9,DFU9,DFU9,Insight,I11,correct,50.2293443,TEMPERATUUR,16.6374818,2,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,97c6a185-4777-437c-9d52-d3e0044243d0
+4,DFU,DFU11,DFU11,DFU11,Insight,I10,correct,32.5621732,No Response,120.0004441,7,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,97c6a185-4777-437c-9d52-d3e0044243d0
+4,DFU,DFU4,DFU4,DFU4,RAT,R2,correct,71.338012,NEDERLAND,8.6368596,4,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,97c6a185-4777-437c-9d52-d3e0044243d0
+5,F,F12,F12,F12,Insight,I4,correct,24.3565672,DE LETTER M,14.6867766,1,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,97c6a185-4777-437c-9d52-d3e0044243d0
+5,F,F10,F10,F10,RAT,R8,correct,33.1821281,VUUR,17.4554969,4,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,97c6a185-4777-437c-9d52-d3e0044243d0
+5,F,F11,F11,F11,Insight,I2,correct,33.4365991,No Response,120.0165543,3,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,97c6a185-4777-437c-9d52-d3e0044243d0
+5,F,F1,F1,F1,Insight,I6,correct,34.3268182,MET EEN  NACHTVISIE BRIL,51.6611288,4,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,97c6a185-4777-437c-9d52-d3e0044243d0
+6,F,F7,F7,F7,RAT,R12,correct,31.0054113,VUIL,10.140001,1,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,97c6a185-4777-437c-9d52-d3e0044243d0
+6,F,F4,F4,F4,RAT,R11,correct,27.2615289,VLIEGVELD,11.0013913,1,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,97c6a185-4777-437c-9d52-d3e0044243d0
+6,F,F8,F8,F8,Insight,I1,correct,21.6220377,HIJ HAD ZIJN HARNAS AAN VOOR DE VEILIGHEID,25.9197861,4,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,97c6a185-4777-437c-9d52-d3e0044243d0
+6,F,F2,F2,F2,RAT,R5,correct,26.0385803,GOUD,16.0032076,7,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,97c6a185-4777-437c-9d52-d3e0044243d0

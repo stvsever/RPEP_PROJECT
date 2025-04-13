@@ -1,0 +1,25 @@
+block_number,experimental_condition,belief_id,critique_id,mc_id,task_type,task_id,response_1,reaction_time_1,response_2,reaction_time_2,response_3,age,gender,education_level (third grade),social_media_hours (daily),verbal_intelligence (self-perceived),participant_identification
+1,DFU,DFU8,DFU8,DFU8,Insight,I6,correct,47.5388612,braille lezen,23.7438631,2,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,99ac80d3-97e4-4558-93c2-ebb5fcffbdeb
+1,DFU,DFU12,DFU12,DFU12,Insight,I3,correct,54.0756332,mijn  hart,17.4207513,2,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,99ac80d3-97e4-4558-93c2-ebb5fcffbdeb
+1,DFU,DFU2,DFU2,DFU2,Insight,I11,correct,37.2160702,de zon,38.0650769,4,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,99ac80d3-97e4-4558-93c2-ebb5fcffbdeb
+1,DFU,DFU9,DFU9,DFU9,RAT,R2,correct,45.60456,kaasboerderij,12.9640418,5,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,99ac80d3-97e4-4558-93c2-ebb5fcffbdeb
+2,DFU,DFU4,DFU4,DFU4,Insight,I8,correct,38.6335378,marit>ruben,94.689135,5,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,99ac80d3-97e4-4558-93c2-ebb5fcffbdeb
+2,DFU,DFU6,DFU6,DFU6,Insight,I7,correct,54.3130453,waterskieen,90.9028153,7,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,99ac80d3-97e4-4558-93c2-ebb5fcffbdeb
+2,DFU,DFU3,DFU3,DFU3,Insight,I9,correct,33.3106174,brons is niet van die tijd,95.9416216,6,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,99ac80d3-97e4-4558-93c2-ebb5fcffbdeb
+2,DFU,DFU10,DFU10,DFU10,RAT,R6,correct,44.8101655,terras,17.0691308,1,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,99ac80d3-97e4-4558-93c2-ebb5fcffbdeb
+3,F,F9,F9,F9,Insight,I4,correct,33.2636413,ik heb echt geen idee,70.0032407,5,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,99ac80d3-97e4-4558-93c2-ebb5fcffbdeb
+3,F,F7,F7,F7,RAT,R7,correct,49.9499543,hout,7.9665651,5,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,99ac80d3-97e4-4558-93c2-ebb5fcffbdeb
+3,F,F1,F1,F1,Insight,I2,correct,51.538504,speelgoed,36.7705155,6,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,99ac80d3-97e4-4558-93c2-ebb5fcffbdeb
+3,F,F5,F5,F5,RAT,R8,correct,31.683589,regen,7.1520081,2,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,99ac80d3-97e4-4558-93c2-ebb5fcffbdeb
+4,F,F8,F8,F8,RAT,R9,correct,44.0572437,No Response,20.0144337,5,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,99ac80d3-97e4-4558-93c2-ebb5fcffbdeb
+4,F,F12,F12,F12,Insight,I1,incorrect,48.4670417,het  gebeurde in een videogame,44.6777958,5,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,99ac80d3-97e4-4558-93c2-ebb5fcffbdeb
+4,F,F4,F4,F4,RAT,R12,correct,41.1059785,afval,11.8190287,4,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,99ac80d3-97e4-4558-93c2-ebb5fcffbdeb
+4,F,F2,F2,F2,Insight,I5,correct,49.8883057,No Response,60.7039321,2,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,99ac80d3-97e4-4558-93c2-ebb5fcffbdeb
+5,DFU,DFU7,DFU7,DFU7,RAT,R1,correct,49.0333775,ober,17.7312461,3,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,99ac80d3-97e4-4558-93c2-ebb5fcffbdeb
+5,DFU,DFU5,DFU5,DFU5,RAT,R3,correct,39.4742638,No Response,20.0034107,4,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,99ac80d3-97e4-4558-93c2-ebb5fcffbdeb
+5,DFU,DFU11,DFU11,DFU11,RAT,R11,correct,57.5776454,fitness,16.4346825,5,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,99ac80d3-97e4-4558-93c2-ebb5fcffbdeb
+5,DFU,DFU1,DFU1,DFU1,RAT,R10,correct,34.168687,No Response,20.0091312,2,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,99ac80d3-97e4-4558-93c2-ebb5fcffbdeb
+6,F,F11,F11,F11,Insight,I10,incorrect,48.5714301,"Je laat eerst de zandloper van & lopen, dan laat je zowel die van 7 als van 11 lopen. wanneer die van 7 gedaan is, weet je",120.0132552,2,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,99ac80d3-97e4-4558-93c2-ebb5fcffbdeb
+6,F,F6,F6,F6,RAT,R5,incorrect,-19.3297793,No Response,20.0034183,3,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,99ac80d3-97e4-4558-93c2-ebb5fcffbdeb
+6,F,F3,F3,F3,Insight,I12,incorrect,53.8898454,de woestijn,69.7842249,5,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,99ac80d3-97e4-4558-93c2-ebb5fcffbdeb
+6,F,F10,F10,F10,RAT,R4,correct,26.6267112,No Response,20.0141889,5,19,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,99ac80d3-97e4-4558-93c2-ebb5fcffbdeb

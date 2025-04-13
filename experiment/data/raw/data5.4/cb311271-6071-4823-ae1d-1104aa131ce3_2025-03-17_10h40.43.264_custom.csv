@@ -1,0 +1,25 @@
+block_number,experimental_condition,belief_id,critique_id,mc_id,task_type,task_id,response_1,reaction_time_1,response_2,reaction_time_2,response_3,age,gender,education_level (third grade),social_media_hours (daily),verbal_intelligence (self-perceived),participant_identification
+1,DFU,DFU4,DFU4,DFU4,Insight,I3,correct,38.46383969997987,een hart,24.30878419999499,1,18,Man,TSO/dubbele finaliteit,2-3 uren,Boven gemiddeld,cb311271-6071-4823-ae1d-1104aa131ce3
+1,DFU,DFU9,DFU9,DFU9,Insight,I8,correct,47.45906490000198,Coach>Hem>Ruben>Marit,90.27372940001078,4,18,Man,TSO/dubbele finaliteit,2-3 uren,Boven gemiddeld,cb311271-6071-4823-ae1d-1104aa131ce3
+1,DFU,DFU11,DFU11,DFU11,Insight,I9,correct,44.65383890000521,Omdat de dtails niet klopten,58.324087899993174,4,18,Man,TSO/dubbele finaliteit,2-3 uren,Boven gemiddeld,cb311271-6071-4823-ae1d-1104aa131ce3
+1,DFU,DFU7,DFU7,DFU7,RAT,R11,correct,36.68150959999184,dokter,15.83386369998334,4,18,Man,TSO/dubbele finaliteit,2-3 uren,Boven gemiddeld,cb311271-6071-4823-ae1d-1104aa131ce3
+2,F,F1,F1,F1,Insight,I10,incorrect,50.319383299996844,2 zandlopers op het zelfde moment laten lopen en dan opnieuw die van 11 o;drqqien na 7 minuten,114.51481980000972,4,18,Man,TSO/dubbele finaliteit,2-3 uren,Boven gemiddeld,cb311271-6071-4823-ae1d-1104aa131ce3
+2,F,F8,F8,F8,RAT,R6,incorrect,59.15259149999474,douche,20.009327000007033,7,18,Man,TSO/dubbele finaliteit,2-3 uren,Boven gemiddeld,cb311271-6071-4823-ae1d-1104aa131ce3
+2,F,F5,F5,F5,Insight,I11,incorrect,42.8497434000019,de zon,21.987660400016466,1,18,Man,TSO/dubbele finaliteit,2-3 uren,Boven gemiddeld,cb311271-6071-4823-ae1d-1104aa131ce3
+2,F,F9,F9,F9,Insight,I6,correct,39.175084199989215,hij kqn braille,22.072149799991166,4,18,Man,TSO/dubbele finaliteit,2-3 uren,Boven gemiddeld,cb311271-6071-4823-ae1d-1104aa131ce3
+3,DFU,DFU2,DFU2,DFU2,Insight,I1,correct,33.3661274999904,hij stond op het onderste trapje,31.078052700002445,4,18,Man,TSO/dubbele finaliteit,2-3 uren,Boven gemiddeld,cb311271-6071-4823-ae1d-1104aa131ce3
+3,DFU,DFU1,DFU1,DFU1,Insight,I12,correct,28.910914200008847,lucht,22.353252200002316,7,18,Man,TSO/dubbele finaliteit,2-3 uren,Boven gemiddeld,cb311271-6071-4823-ae1d-1104aa131ce3
+3,DFU,DFU5,DFU5,DFU5,RAT,R3,correct,34.60796730002039,driller,13.197204299998702,4,18,Man,TSO/dubbele finaliteit,2-3 uren,Boven gemiddeld,cb311271-6071-4823-ae1d-1104aa131ce3
+3,DFU,DFU8,DFU8,DFU8,RAT,R7,correct,64.95826370001305,No Response,0.023246799974003807,4,18,Man,TSO/dubbele finaliteit,2-3 uren,Boven gemiddeld,cb311271-6071-4823-ae1d-1104aa131ce3
+4,F,F6,F6,F6,Insight,I7,correct,32.89612620000844,jezus zijn,15.43538539999281,4,18,Man,TSO/dubbele finaliteit,2-3 uren,Boven gemiddeld,cb311271-6071-4823-ae1d-1104aa131ce3
+4,F,F2,F2,F2,RAT,R2,correct,37.21987749999971,kaasboer,13.9819038999849,4,18,Man,TSO/dubbele finaliteit,2-3 uren,Boven gemiddeld,cb311271-6071-4823-ae1d-1104aa131ce3
+4,F,F7,F7,F7,RAT,R1,incorrect,35.36136650000117,bal,11.037879200011957,4,18,Man,TSO/dubbele finaliteit,2-3 uren,Boven gemiddeld,cb311271-6071-4823-ae1d-1104aa131ce3
+4,F,F4,F4,F4,Insight,I5,correct,30.310054800007492,No Response,8.991155399999116,1,18,Man,TSO/dubbele finaliteit,2-3 uren,Boven gemiddeld,cb311271-6071-4823-ae1d-1104aa131ce3
+5,F,F12,F12,F12,RAT,R8,correct,28.38610289999633,rook,14.352196799998637,1,18,Man,TSO/dubbele finaliteit,2-3 uren,Boven gemiddeld,cb311271-6071-4823-ae1d-1104aa131ce3
+5,F,F3,F3,F3,RAT,R4,incorrect,26.996681899996474,No Response,4.739009699987946,7,18,Man,TSO/dubbele finaliteit,2-3 uren,Boven gemiddeld,cb311271-6071-4823-ae1d-1104aa131ce3
+5,F,F11,F11,F11,RAT,R12,correct,26.704453300015302,water,20.0062617000076,7,18,Man,TSO/dubbele finaliteit,2-3 uren,Boven gemiddeld,cb311271-6071-4823-ae1d-1104aa131ce3
+5,F,F10,F10,F10,Insight,I4,correct,25.567360799992457,No Response,0.020286399987526238,7,18,Man,TSO/dubbele finaliteit,2-3 uren,Boven gemiddeld,cb311271-6071-4823-ae1d-1104aa131ce3
+6,DFU,DFU6,DFU6,DFU6,Insight,I2,correct,64.9088087999844,een  vqlse wereld,33.3381953999924,4,18,Man,TSO/dubbele finaliteit,2-3 uren,Boven gemiddeld,cb311271-6071-4823-ae1d-1104aa131ce3
+6,DFU,DFU12,DFU12,DFU12,RAT,R5,correct,43.52902530002757,vishengel,11.8358203000098,7,18,Man,TSO/dubbele finaliteit,2-3 uren,Boven gemiddeld,cb311271-6071-4823-ae1d-1104aa131ce3
+6,DFU,DFU3,DFU3,DFU3,RAT,R10,correct,22.54217569998582,hondenkar,13.57007740001427,7,18,Man,TSO/dubbele finaliteit,2-3 uren,Boven gemiddeld,cb311271-6071-4823-ae1d-1104aa131ce3
+6,DFU,DFU10,DFU10,DFU10,RAT,R9,correct,37.12682269999641,brooddoos,11.885026599979028,4,18,Man,TSO/dubbele finaliteit,2-3 uren,Boven gemiddeld,cb311271-6071-4823-ae1d-1104aa131ce3

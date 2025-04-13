@@ -1,0 +1,25 @@
+block_number,experimental_condition,belief_id,critique_id,mc_id,task_type,task_id,response_1,reaction_time_1,response_2,reaction_time_2,response_3,age,gender,education_level (third grade),social_media_hours (daily),verbal_intelligence (self-perceived),participant_identification
+1,DFU,DFU5,DFU5,DFU5,RAT,R2,correct,59.046015,nederlqnd,10.0011652,1,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,9cffc920-1134-4ac9-aca2-aae37f1d0fde
+1,DFU,DFU1,DFU1,DFU1,RAT,R9,correct,39.0535391,No Response,0.0142731,3,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,9cffc920-1134-4ac9-aca2-aae37f1d0fde
+1,DFU,DFU2,DFU2,DFU2,RAT,R7,correct,74.1155609,gezelschapspel,19.5900224,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,9cffc920-1134-4ac9-aca2-aae37f1d0fde
+1,DFU,DFU8,DFU8,DFU8,Insight,I12,incorrect,53.9913053,vuur,18.7659406,3,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,9cffc920-1134-4ac9-aca2-aae37f1d0fde
+2,F,F3,F3,F3,RAT,R3,correct,49.0602773,winterbar,20.0268256,1,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,9cffc920-1134-4ac9-aca2-aae37f1d0fde
+2,F,F9,F9,F9,RAT,R8,correct,33.9578393,sinterklaas,14.1567142,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,9cffc920-1134-4ac9-aca2-aae37f1d0fde
+2,F,F2,F2,F2,RAT,R4,correct,49.801793,zomer,12.3028405,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,9cffc920-1134-4ac9-aca2-aae37f1d0fde
+2,F,F5,F5,F5,Insight,I7,correct,27.0243285,als het een ondiep meer is,76.0135019,7,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,9cffc920-1134-4ac9-aca2-aae37f1d0fde
+3,DFU,DFU11,DFU11,DFU11,RAT,R6,incorrect,55.3086282,living,13.3521428,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,9cffc920-1134-4ac9-aca2-aae37f1d0fde
+3,DFU,DFU4,DFU4,DFU4,Insight,I5,correct,42.8733631,postzegel,24.8829252,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,9cffc920-1134-4ac9-aca2-aae37f1d0fde
+3,DFU,DFU12,DFU12,DFU12,RAT,R12,correct,61.6977428,verkoper,13.9117679,1,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,9cffc920-1134-4ac9-aca2-aae37f1d0fde
+3,DFU,DFU7,DFU7,DFU7,Insight,I6,correct,53.2319772,hij heeft een fotografisch geheugen en kan dus lezen als hij zijn ogen toe heeft,31.0817829,2,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,9cffc920-1134-4ac9-aca2-aae37f1d0fde
+4,DFU,DFU6,DFU6,DFU6,Insight,I1,correct,47.4180682,hij hangt vst met een beveiligingskabel,26.4781683,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,9cffc920-1134-4ac9-aca2-aae37f1d0fde
+4,DFU,DFU10,DFU10,DFU10,Insight,I3,correct,52.2628906,vertrouwen,16.7775173,3,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,9cffc920-1134-4ac9-aca2-aae37f1d0fde
+4,DFU,DFU9,DFU9,DFU9,Insight,I10,correct,29.6387776,eerst 11 min dus met de ene zandloper en dan  nog 4 min schatten met de andere,31.0089378,2,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,9cffc920-1134-4ac9-aca2-aae37f1d0fde
+4,DFU,DFU3,DFU3,DFU3,RAT,R10,correct,57.0291435,cabrio,10.91772,2,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,9cffc920-1134-4ac9-aca2-aae37f1d0fde
+5,F,F7,F7,F7,Insight,I4,incorrect,28.5724691,geen idee,69.5437219,7,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,9cffc920-1134-4ac9-aca2-aae37f1d0fde
+5,F,F4,F4,F4,RAT,R1,correct,26.3355008,uitgaan,8.9632104,2,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,9cffc920-1134-4ac9-aca2-aae37f1d0fde
+5,F,F11,F11,F11,Insight,I11,correct,39.5361388,de zon,9.749379,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,9cffc920-1134-4ac9-aca2-aae37f1d0fde
+5,F,F1,F1,F1,RAT,R11,correct,32.9960839,dietiste,9.1478498,7,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,9cffc920-1134-4ac9-aca2-aae37f1d0fde
+6,F,F12,F12,F12,Insight,I9,correct,58.6217691,er was geen keizer in 544 v.Chr,53.7206416,3,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,9cffc920-1134-4ac9-aca2-aae37f1d0fde
+6,F,F6,F6,F6,Insight,I8,correct,42.8096172,marit>ruben>hem>coach,85.1188395,5,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,9cffc920-1134-4ac9-aca2-aae37f1d0fde
+6,F,F10,F10,F10,Insight,I2,incorrect,36.1704513,lego,13.0705962,4,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,9cffc920-1134-4ac9-aca2-aae37f1d0fde
+6,F,F8,F8,F8,RAT,R5,incorrect,28.3016962,vissersboot,16.4468322,5,18,Vrouw,ASO/doorstroomfinaliteit,3-4 uren,Gemiddeld,9cffc920-1134-4ac9-aca2-aae37f1d0fde
