@@ -1,12 +1,15 @@
 # Maladaptive Perseveration: The Impact of Irrefutable Belief Systems on Insightful Reasoning
 
-**Part of the RPEP Project**
-
 ---
 
 ## Description
 
-This repository contains the complete codebase used for the study “Maladaptive Perseveration: The Impact of Irrefutable Belief Systems on Insightful Reasoning.” It includes data preprocessing, analysis scripts, model fitting routines, and visualization code corresponding to all figures and tables presented in the paper.
+This repository contains the complete codebase used for the study “Maladaptive Perseveration: The Impact of Irrefutable Belief Systems on Insightful Reasoning.” It includes: 
+a) all Dutch and translated stimuli that were used in the experiment 
+b) the full code of the Psychopy experiment 
+c) the raw data of the experiment 
+d) the full code of the analysis of the raw data (both R and Python)
+e) all figures that were used in the main text & supplementary materials
 
 ---
 
@@ -28,16 +31,16 @@ A second analysis found that participants with higher chronic affinity for irref
 ### 1. Effect of Priming Procedure on Insight Performance  
 ![Effect of Priming on Reaction Times](https://github.com/user-attachments/assets/b8d281fb-d8b9-402d-9bcd-a048e7ff72b4)
 
-> **Note.**  
-> A) For classical insight tasks, the DFU condition shows a higher density for longer reaction times compared to the F condition (upper plot). Gaussian model fits across tasks further illustrate between-task variability (lower plot).  
-> B) A similar pattern emerges for RAT data: DFU trials yield higher densities at longer reaction times than F trials.
+**Note.**  
+A) For classical insight tasks, the DFU condition shows a higher density for longer reaction times compared to the F condition (upper plot). Gaussian model fits across tasks further illustrate between-task variability (lower plot).  
+B) A similar pattern emerges for RAT data: DFU trials yield higher densities at longer reaction times than F trials.
 
 ### 2. Association between DFU Affinity and Insight Performance  
 ![DFU Affinity vs. Insight Performance](https://github.com/user-attachments/assets/8b23ac34-a0c9-4dea-a57a-1df1e4c75185)
 
-> **Note.**  
-> A) The DFU affinity index correlates significantly with reaction times on classical tasks only. The inverted F index shows correlations with both classical accuracy and modern reaction times, though none survive Bonferroni correction.  
-> B) Overall insight performance (BI score) correlates moderately and significantly with DFU affinity; the inverted F index correlation is weaker and marginal.
+**Note.**  
+A) The DFU affinity index correlates significantly with reaction times on classical tasks only. The inverted F index shows correlations with both classical accuracy and modern reaction times, though none survive Bonferroni correction.  
+B) Overall insight performance (BI score) correlates moderately and significantly with DFU affinity; the inverted F index correlation is weaker and marginal.
 
 ---
 
