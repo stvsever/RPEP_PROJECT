@@ -44,6 +44,3 @@ B) Overall insight performance (BI score) correlates moderately and significantl
 These results provide preliminary evidence that irrefutable belief systems impair insightful reasoning by delaying adaptive representational change. The effect is robust under both acute priming and measures of chronic affinity, particularly visible in delayed reaction times. Future studies should employ alternative paradigms and validated materials to replicate and extend these findings.
 
 ---
-
-## Repository Structure
-
