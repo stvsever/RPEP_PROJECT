@@ -15,12 +15,7 @@ e) all figures that were used in the main text & supplementary materials
 
 ## Abstract
 
-Belief systems that resist contradictory evidence can make individuals less open to changing their perspective, possibly affecting their ability to effectively navigate complex problem domains. To explore this, 60 participants took part in a 55-minute experiment where they temporarily adopted either refutable (F) or irrefutable (DFU) reasoning styles prior to insight tasks. After exposure to rigid cognitive frameworks, participants in the DFU condition showed:
-
-- **Longer reaction times** on classical and modern insight tasks.
-- **Reduced accuracy** in tasks requiring representational change.
-
-A second analysis found that participants with higher chronic affinity for irrefutable reasoning (DFU affinity index) performed worse on classical insight problems. These findings suggest that frequent engagement with irrefutable belief systems may hinder the mental flexibility needed to restructure ideas. Given the relevance to repetitive negative thinking in many psychopathologies, future research should investigate falsifiability as a novel transdiagnostic variable.
+Belief systems that resist contradictory evidence can make individuals less open to changing their perspective, possibly affecting their ability to effectively navigate complex problem domains. To explore this, 60 participants took part in a 55-minute experiment where they temporarily adopted either refutable or irrefutable reasoning styles prior to insight tasks. After exposure to rigid cognitive frameworks, participants had more difficulty with insightful reasoning where representational change was a prerequisite for finding the solution, as indicated by an overall increase in reaction time. A second analysis found that participants who were more drawn to irrefutable belief systems had an overall poorer performance on the insight tasks. These findings suggest that frequent engagement with such beliefs may hinder the mental flexibility needed to adaptively restructure ideas. Given the importance of repetitive negative thinking across many psychopathologies, future research could potentially benefit from incorporating the degree of falsifiability as a novel transdiagnostic variable into contemporary etiological models.
 
 **Keywords:** irrefutable reasoning · constraint relaxation · maladaptive perseveration
 
